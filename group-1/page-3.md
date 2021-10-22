@@ -16,6 +16,6 @@ Elles le permettent de [déplacer des messages, en sauvegarder d'autres ou encor
 
 12 personnes bénéficiant précédemment du rôle d'administrateur technique ont perdu leur accès avec l'implémentation de PDF-1 :&#x20;
 
-{% content-ref url="../propositions-pdf/propositions-acceptees/1-mise-a-jour-et-clarification-du-role-df-admin.md" %}
-[1-mise-a-jour-et-clarification-du-role-df-admin.md](../propositions-pdf/propositions-acceptees/1-mise-a-jour-et-clarification-du-role-df-admin.md)
+{% content-ref url="../propositions-pdf/propositions-acceptees/1-la-purge.md" %}
+[1-la-purge.md](../propositions-pdf/propositions-acceptees/1-la-purge.md)
 {% endcontent-ref %}

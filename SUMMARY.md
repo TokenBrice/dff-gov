@@ -28,9 +28,10 @@
 
 * [💬 En discussion](propositions-pdf/en-discussion.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
-  * [📜 #-1 - Mise à jour et clarification du rôle DF-Admin](propositions-pdf/propositions-acceptees/1-mise-a-jour-et-clarification-du-role-df-admin.md)
+  * [📜 #-1 - Mise à jour et clarification du rôle DF-Admin](propositions-pdf/propositions-acceptees/1-la-purge.md)
   * [📜 #-2 - Des hoodies DeFi France, avec Arianee](propositions-pdf/propositions-acceptees/2-des-hoodies-defi-france-avec-arianee.md)
-* [❌ Propositions refusées](propositions-pdf/propositions-refusees.md)
+* [❌ Propositions refusées](propositions-pdf/propositions-refusees/README.md)
+  * [📜 #-3 - Création du salon « Projet prometteur »](propositions-pdf/propositions-refusees/3-creation-du-salon-projet-prometteur.md)
 
 ## 🙋 Rôles
 
