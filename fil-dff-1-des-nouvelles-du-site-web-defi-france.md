@@ -1,4 +1,4 @@
-# 🌐 Des nouvelles du site web DeFi France
+# Fil DFF 1 -🌐 Des nouvelles du site web DeFi France
 
 title: “Le fil de la gouvernance DeFi France #10” description: “Compte rendu de la gouvernance participative de la communauté DeFi France. Des aperçus du site web DeFi France !” date:2021-10-16 categories: \[🇫🇷 Communauté DeFi France] tags: \[DeFi France, Discord, Contributions, Communauté] url: fil-gov-defi-france-10
 
