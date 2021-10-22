@@ -1,12 +1,10 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
+description: >-
+  Prise en main et démonstration des mécanismes de gouvernance communautaire
+  DFF, accessibles directement sur le Discord.
 ---
 
 # 🗳 Gouvernance communautaire
-
-### `#🏟-agora` : la gouvernance communautaire
 
 **Les emojis-actions permettent également de s'impliquer directement dans la gouvernance** de DeFi France. Sur un canal spécifique, l'`#🏟-agora`, les membres peuvent discuter de leurs propositions d'améliorations. Lorsqu'ils atteignent un consensus sur une proposition, ils peuvent la formaliser afin de la soumettre à l'`#🏟-agora`.
 
