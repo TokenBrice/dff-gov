@@ -22,7 +22,6 @@
   * [#8](fil-de-la-gouvernance/publies-en-2021/8.md)
   * [#9](fil-de-la-gouvernance/publies-en-2021/9.md)
   * [#10](fil-de-la-gouvernance/publies-en-2021/10.md)
-* [🎥 Vidéos & Directs](fil-de-la-gouvernance/videos-and-directs.md)
 
 ## 📜 Propositions (PDF)
 

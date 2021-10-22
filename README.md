@@ -29,6 +29,12 @@ Différents contenus francophones sont également proposés par nos membres :&#x
 * [Blog TokenBrice](https://tokenbrice.xyz/fr/) : articles appronfondis pour parfaire sa compréhension de la DeFi
 * [Live TokenBrice](https://www.youtube.com/watch?v=LXDSxRCMsDE\&list=PLreQl\_vxgtPhSZeMiTbzXAjL\_U-\_NnQwD) : des lives plus ou moins techniques pour découvrir et comprendre des protocoles ou mécanismes essentiels en DeFi
 
+Le système de blé ainsi que les principaux mécanismes associés ont été présentés lors d'un direct réalisé sur le serveur Discord à l'occasion de son lancement :&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=fMpYQYXBrfA" %}
+Live d'introduction du nouveau système de blé avec Nolan et Brice
+{% endembed %}
+
 ### Comment ça marche?
 
 Les mécanismes relatifs au serveur Discord sont implémentés par notre gentille déesse Déméter (bot). Ils sont explicités dans la section suivante :&#x20;
