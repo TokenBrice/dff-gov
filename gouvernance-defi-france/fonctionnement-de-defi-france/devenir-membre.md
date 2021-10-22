@@ -2,6 +2,8 @@
 description: >-
   Comment rejoindre communauté DeFi France afin de pouvoir participer à la
   gouvernance
+cover: ../../.gitbook/assets/dff-banner-membre(1).png
+coverY: 0
 ---
 
 # 🐣 Devenir membre

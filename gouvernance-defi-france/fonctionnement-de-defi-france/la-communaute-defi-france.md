@@ -2,6 +2,8 @@
 description: >-
   Historique rapide et tour d'horizon de la communauté DeFi France et sa
   gouvernance communautaire
+cover: ../../.gitbook/assets/dff-banner-communauté(1).png
+coverY: 0
 ---
 
 # 🇫🇷 La communauté DeFi France

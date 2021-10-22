@@ -2,6 +2,8 @@
 description: >-
   Prise en main et démonstration des mécanismes de gouvernance communautaire
   DFF, accessibles directement sur le Discord.
+cover: ../../.gitbook/assets/dff-banner-gouvernance(1).png
+coverY: 0
 ---
 
 # 🗳 Gouvernance communautaire

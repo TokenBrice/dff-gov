@@ -2,7 +2,8 @@
 description: >-
   Explication du blé, le mécanisme interne qui permet de mesurer les
   contributions et pondérer les décisions
-coverY: 0
+cover: ../../.gitbook/assets/dff-banner-blé(1).png
+coverY: 9.916218293620293
 ---
 
 # 🌾 Le système de blé

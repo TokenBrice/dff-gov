@@ -2,6 +2,8 @@
 description: >-
   Comment le système d'émoji-réaction permet la curation, modération et
   gouvernance communautaire de DeFi France
+cover: ../../.gitbook/assets/dff-banner-curation.png
+coverY: 0
 ---
 
 # 🏗 Curation & modération communautaire
