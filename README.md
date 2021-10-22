@@ -1,47 +1,34 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
+description: >-
+  DeFi France est la principale communauté francophone pour échanger autour de
+  la finance décentralisée. Elle se structure et s'organise grâce aux
+  contributions de ses membres, reconnues à leur juste va
 ---
 
-# 📘 \~PDF0 objectif vision
+# 👋 Bienvenue
 
-{% hint style="info" %}
-**Good to know:** an employee directory can be a great way to help new folks get familiar with everyone they're going to be working with.
-{% endhint %}
+La finance décentralisée, c'est intimidant pour de nombreuses personnes. En effet, la comprendre implique de se plonger dans des sujets reconnus comme complexes et souvent évités, comme l'économie ou l'informatique.
 
-## Esme DeWalt
+DeFi France entend faciliter cette découverte en développant un espace de discussion entièrement francophone pour apprendre ensemble. Différents membres de la communauté assurent également une production de contenu francophones pour rendre les concepts de la DeFi aussi accessibles que possible.
 
-👋 CEO — 💌 esme@company.com — 🇺🇸 San Francisco (GMT-7)
+### DeFi France, c'est quoi ?
 
-![](https://images.unsplash.com/photo-1571442463800-1337d7af9d2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2973\&q=80)
+Parle de DeFi en français c'est bien, mais on tenait également à le faire au sein d'un mouvement qui vit à la hauteur des idéaux portés par ce milieu : transparence, utilisation de technologie "onchain", distribution de la capacité de décision et auditabilité.
 
-### Bio
+Pour se faire, la communauté DeFi France se retrouve principalement sur le serveur Discord où tout un système personnalisé est mis en place.
 
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
+{% embed url="https://discord.gg/3bWZcK2" %}
+Rejoindre le Discord DeFi France
+{% endembed %}
 
-## Rima Paterson
+Différents contenus francophones sont également proposés par nos membres :&#x20;
 
-👋 CTO — 💌 rima@company.com — 🇳🇱 Amsterdam (GMT+1)
+* [BanklessFR](https://banklessfr.substack.com) : pour des articles de refléxion sur les principaux développements en DeFi
+* [TheDailyGweiFR](https://thedailygweifr.substack.com) : pour un suivi plus quodien et ciblé des actualités
+* [MetaVersalFR](https://metaversalfr.substack.com) : une newsletter pour suivre le développement du métaverse et des NFTs
+* [Blog TokenBrice](https://tokenbrice.xyz/fr/) : articles appronfondis pour parfaire sa compréhension de la DeFi
+* [Live TokenBrice](https://www.youtube.com/watch?v=LXDSxRCMsDE\&list=PLreQl\_vxgtPhSZeMiTbzXAjL\_U-\_NnQwD) : des lives plus ou moins techniques pour découvrir et comprendre des protocoles ou mécanismes essentiels en DeFi
 
-![](https://images.unsplash.com/photo-1502764613149-7f1d229e230f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2972\&q=80)
+### Comment ça marche?
 
-### Bio
-
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
-
-## Stefan Barr
-
-👋 Head of Product — 💌 stefan@company.com — 🇫🇷 Marseille (GMT+1)
-
-![](https://images.unsplash.com/photo-1601935111741-ae98b2b230b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2970\&q=80)
-
-### Bio
-
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
+Les mécanismes relatifs au serveur Discord sont implémentés par notre gentille déesse Déméter (bot). Ils sont explicités dans la section suivante :&#x20;

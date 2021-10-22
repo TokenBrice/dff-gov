@@ -2,7 +2,7 @@
 
 ## 🏟 Gouvernance DeFi France
 
-* [📘 \~PDF0 objectif vision](README.md)
+* [👋 Bienvenue](README.md)
 * [🍕 Fonctionnement de DeFi France](gouvernance-defi-france/fonctionnement-de-defi-france/README.md)
   * [🐣 Devenir membre](gouvernance-defi-france/fonctionnement-de-defi-france/devenir-membre.md)
   * [🌾 Le système de blé](gouvernance-defi-france/fonctionnement-de-defi-france/le-systeme-de-ble.md)
