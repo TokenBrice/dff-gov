@@ -8,18 +8,18 @@ description: >-
 
 Différentes **décisions communautaires peuvent être initiées en réagissant avec des emojis spécifiques à un message**. Si elles rencontrent un seuil de support fixé à 10 % (pondération blé), elles déclenchent différentes actions.
 
-### Liste des réactions
+## Liste des émoji-réactions
 
 Avant de détailler les principales emojis-réactions, voici un tableau qui récapitule les principales emojis-actions :
 
-| VISUEL | EMOJI             | EFFET                                                                                                    | CONDITIONS                           |
-| ------ | ----------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-|        | `:hs_stratégies:` | Déplace le message vers le canal correspondant à l'émoji (une emoji spécifique par canal de destination) | Quorum 10% 🌾                        |
-|        | `:floopy_disk:`   | Sauvegarde le message dans le canal `#💾-best-of`                                                        | Quorum 10% 🌾                        |
-|        | `:scroll:`        | Permet de soumettre une proposition au vote (seulement dans `#🏟-agora`)                                 | Quorum 10% 🌾 pour commencer le vote |
-|        | `:prison:`        | Supprime le message + potentielle sanction si la communauté le décide dans le `#⚖-tribunal`              | Quorum 10% 🌾                        |
-|        | `:dff:`           | Bonus pondération blé                                                                                    | -                                    |
-|        | `:delo:`          | Bonus pondération blé                                                                                    | -                                    |
+|                      VISUEL                     |       EMOJI       |                                                   EFFET                                                  |              CONDITIONS              |
+| :---------------------------------------------: | :---------------: | :------------------------------------------------------------------------------------------------------: | :----------------------------------: |
+|      ![](../../.gitbook/assets/reac-hs.png)     | `:hs_stratégies:` | Déplace le message vers le canal correspondant à l'émoji (une emoji spécifique par canal de destination) |             Quorum 10% 🌾            |
+| ![](../../.gitbook/assets/reac-floppy-disk.png) |  `:floopy_disk:`  |                             Sauvegarde le message dans le canal `#💾-best-of`                            |             Quorum 10% 🌾            |
+|    ![](../../.gitbook/assets/reac-scroll.png)   |     `:scroll:`    |                 Permet de soumettre une proposition au vote (seulement dans `#🏟-agora`)                 | Quorum 10% 🌾 pour commencer le vote |
+|    ![](../../.gitbook/assets/reac-prison.png)   |     `:prison:`    |        Supprime le message + potentielle sanction si la communauté le décide dans le `#⚖-tribunal`       |             Quorum 10% 🌾            |
+|     ![](../../.gitbook/assets/reac-dff.png)     |      `:dff:`      |                                           Bonus pondération blé                                          |                   -                  |
+|     ![](../../.gitbook/assets/reac-delo.png)    |      `:delo:`     |                                           Bonus pondération blé                                          |                   -                  |
 
 ### La curation des messages : hors-sujet et 💾 sauvegarde
 

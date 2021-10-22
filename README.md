@@ -9,13 +9,13 @@ description: >-
 
 La finance décentralisée, c'est intimidant pour de nombreuses personnes. En effet, la comprendre implique de se plonger dans des sujets reconnus comme complexes et souvent évités, comme l'économie ou l'informatique.
 
-DeFi France entend faciliter cette découverte en développant un espace de discussion entièrement francophone pour apprendre ensemble. Différents membres de la communauté assurent également une production de contenu francophones pour rendre les concepts de la DeFi aussi accessibles que possible.
+DeFi France entend faciliter cette découverte en développant **un espace de discussion entièrement francophone pour apprendre ensemble**. Différents membres de la communauté assurent également une production de contenu en français pour rendre les concepts de la DeFi aussi accessibles que possible.
 
 ### DeFi France, c'est quoi ?
 
-Parle de DeFi en français c'est bien, mais on tenait également à le faire au sein d'un mouvement qui vit à la hauteur des idéaux portés par ce milieu : transparence, utilisation de technologie "onchain", distribution de la capacité de décision et auditabilité.
+Parle de DeFi en français c'est bien, mais on tenait également à le faire au sein d'**un mouvement qui vit à la hauteur des idéaux portés par ce milieu** : transparence, utilisation de technologie "onchain", distribution de la capacité de décision et auditabilité.
 
-Pour se faire, la communauté DeFi France se retrouve principalement sur le serveur Discord où tout un système personnalisé est mis en place.
+Pour se faire, la communauté DeFi France se retrouve principalement sur le serveur Discord où un système personnalisé est mis en place, détaillé dans la page qui suit.
 
 {% embed url="https://discord.gg/3bWZcK2" %}
 Rejoindre le Discord DeFi France
@@ -29,12 +29,12 @@ Différents contenus francophones sont également proposés par nos membres :&#x
 * [Blog TokenBrice](https://tokenbrice.xyz/fr/) : articles appronfondis pour parfaire sa compréhension de la DeFi
 * [Live TokenBrice](https://www.youtube.com/watch?v=LXDSxRCMsDE\&list=PLreQl\_vxgtPhSZeMiTbzXAjL\_U-\_NnQwD) : des lives plus ou moins techniques pour découvrir et comprendre des protocoles ou mécanismes essentiels en DeFi
 
+### Comment ça marche ?
+
 Le système de blé ainsi que les principaux mécanismes associés ont été présentés lors d'un direct réalisé sur le serveur Discord à l'occasion de son lancement :&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=fMpYQYXBrfA" %}
 Live d'introduction du nouveau système de blé avec Nolan et Brice
 {% endembed %}
-
-### Comment ça marche?
 
 Les mécanismes relatifs au serveur Discord sont implémentés par notre gentille déesse Déméter (bot). Ils sont explicités dans la section suivante :&#x20;
