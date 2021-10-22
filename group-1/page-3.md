@@ -1,3 +1,9 @@
+---
+description: Description et distribution des différents rôles au sein de la communauté
+cover: ../.gitbook/assets/dff-banner-roles.png
+coverY: 0
+---
+
 # 🧭 Aperçu des responsabilités
 
 Au sein de la communauté DeFi France, les membres sont directement en charge autant que possible grâce aux interactions communautaires pondérées par le système de blé.
