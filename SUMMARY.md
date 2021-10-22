@@ -25,3 +25,4 @@
 ***
 
 * [Test Disiaque](test-disiaque.md)
+* [🌐 Des nouvelles du site web DeFi France](des-nouvelles-du-site-web-defi-france.md)
