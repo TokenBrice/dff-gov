@@ -2,8 +2,8 @@
 description: >-
   Retrouvez ici les compte-rendus des principales discussions et décisions
   prises au sein de la gouvernance de DeFi France
-cover: ../../.gitbook/assets/defi-france-banniere.png
-coverY: -11.6984006092917
+cover: ../../.gitbook/assets/fil-gov-banner.png
+coverY: -10.330514988470407
 ---
 
 # ⏳ Publiés en 2021
