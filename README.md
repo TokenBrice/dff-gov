@@ -1,4 +1,4 @@
-# Get Started
+# 🐣 Découvrir la gouvernance DeFi France
 
 ## Try it out
 
