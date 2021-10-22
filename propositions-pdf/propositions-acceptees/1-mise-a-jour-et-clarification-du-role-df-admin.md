@@ -1,11 +1,8 @@
 ---
-description: >-
-  Proposition implémentée ✅ Clarifie les fonctions du rôle admin sur le Discord
-  & son attribution. Création du rôle de membre d'honneur et allocation à Mounir
-  & Arthur.
+description: Proposition implémentée ✅
 ---
 
-# 🔥 -1 : "La Purge"
+# 📜 #-1 - Mise à jour et clarification du rôle DF-Admin
 
 Formalisation : 05 Octobre 2021
 
