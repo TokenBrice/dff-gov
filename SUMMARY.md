@@ -4,6 +4,7 @@
 
 * [📘 \~PDF0 objectif vision](README.md)
 * [🌾 Le système de blé](gouvernance-defi-france/le-systeme-de-ble.md)
+* [🏗 Curation & modération communautaire](gouvernance-defi-france/curation-and-moderation-communautaire.md)
 * [🗳 Gouvernance communautaire](gouvernance-defi-france/gouvernance-communautaire.md)
 
 ## 📰 Fil de la gouvernance
@@ -21,15 +22,16 @@
   * [#10](fil-de-la-gouvernance/publies-en-2021/10.md)
 * [🎥 Vidéos & Directs](fil-de-la-gouvernance/videos-and-directs.md)
 
-## Group 1
+## 📜 Propositions (PDF)
 
-* [Page 3](group-1/page-3.md)
+* [💬 En discussion](propositions-pdf/en-discussion.md)
+* [✅ Propositions acceptées](propositions-pdf/propositions-acceptees/README.md)
+  * [🔥 -1 - "La Purge"](propositions-pdf/propositions-acceptees/1-la-purge.md)
+* [❌ Propositions refusées](propositions-pdf/propositions-refusees.md)
 
-## 📢 Propositions en cours
+## 🙋 Rôles
 
-* [Page 2](propositions-en-cours/page-2.md)
-
-## 📜 Historique des PDFs <a href="pdfs-votées" id="pdfs-votées"></a>
-
-* [Requesting Time Off](pdfs-votées/requesting-time-off.md)
-* [Filing Expenses](pdfs-votées/filing-expenses.md)
+* [🧭 Aperçu des responsabilités](roles/apercu-des-responsabilites/README.md)
+  * [⚙ Administrateur technique](roles/apercu-des-responsabilites/administrateur-technique.md)
+  * [🖋 Scribe](roles/apercu-des-responsabilites/scribe.md)
+  * [🎖 Membre d'honneur](roles/apercu-des-responsabilites/membre-dhonneur.md)
