@@ -8,4 +8,3 @@ coverY: -11.80630284396618
 
 # 🍕 Fonctionnement de DeFi France
 
-###
