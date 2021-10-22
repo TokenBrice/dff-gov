@@ -5,15 +5,17 @@ description: >-
   & Arthur.
 ---
 
-# 🔥 -1 - "La Purge"
+# 🔥 -1 : "La Purge"
 
-**PD**![](../../.gitbook/assets/image.png)****
+Formalisation : 05 Octobre 2021
 
-****![](<../../.gitbook/assets/image (1).png>)****
+Vote Agora : 05 Octobre 2021
 
-Son implémentation a été réalisée dans la foulée :
+![Résultats du vote sur PDF -1](../../.gitbook/assets/aaaa.png)
 
+Implémentation : 08 Octobre 2021
 
+![](../../.gitbook/assets/bbbb.png)
 
 ## **PROPOSITION ORIGINALE**
 

@@ -3,9 +3,11 @@
 ## 🏟 Gouvernance DeFi France
 
 * [📘 \~PDF0 objectif vision](README.md)
-* [🌾 Le système de blé](gouvernance-defi-france/le-systeme-de-ble.md)
-* [🏗 Curation & modération communautaire](gouvernance-defi-france/curation-and-moderation-communautaire.md)
-* [🗳 Gouvernance communautaire](gouvernance-defi-france/gouvernance-communautaire.md)
+* [🍕 Fonctionnement de DeFi France](gouvernance-defi-france/fonctionnement-de-defi-france/README.md)
+  * [🐣 Devenir membre](gouvernance-defi-france/fonctionnement-de-defi-france/devenir-membre.md)
+  * [🌾 Le système de blé](gouvernance-defi-france/fonctionnement-de-defi-france/le-systeme-de-ble.md)
+  * [🏗 Curation & modération communautaire](gouvernance-defi-france/fonctionnement-de-defi-france/curation-and-moderation-communautaire.md)
+  * [🗳 Gouvernance communautaire](gouvernance-defi-france/fonctionnement-de-defi-france/gouvernance-communautaire.md)
 
 ## 📰 Fil de la gouvernance
 
@@ -25,13 +27,13 @@
 ## 📜 Propositions (PDF)
 
 * [💬 En discussion](propositions-pdf/en-discussion.md)
-* [✅ Propositions acceptées](propositions-pdf/propositions-acceptees/README.md)
-  * [🔥 -1 - "La Purge"](propositions-pdf/propositions-acceptees/1-la-purge.md)
+* [✅ Propositions acceptées](propositions-en-cours/page-2.md)
+  * [🔥 -1 : "La Purge"](propositions-pdf/propositions-acceptees/1-la-purge.md)
 * [❌ Propositions refusées](propositions-pdf/propositions-refusees.md)
 
 ## 🙋 Rôles
 
-* [🧭 Aperçu des responsabilités](roles/apercu-des-responsabilites/README.md)
+* [🧭 Aperçu des responsabilités](group-1/page-3.md)
   * [⚙ Administrateur technique](roles/apercu-des-responsabilites/administrateur-technique.md)
   * [🖋 Scribe](roles/apercu-des-responsabilites/scribe.md)
   * [🎖 Membre d'honneur](roles/apercu-des-responsabilites/membre-dhonneur.md)
