@@ -13,6 +13,7 @@
 ## 📰 Fil de la gouvernance
 
 * [⏳ Publiés en 2021](fil-de-la-gouvernance/publies-en-2021/README.md)
+  * [ℹ Information et liens](fil-de-la-gouvernance/publies-en-2021/information-et-liens.md)
   * [#1 - Première Édition](fil-de-la-gouvernance/publies-en-2021/1-premiere-edition.md)
   * [#2](fil-de-la-gouvernance/publies-en-2021/2.md)
   * [#3](fil-de-la-gouvernance/publies-en-2021/3.md)
