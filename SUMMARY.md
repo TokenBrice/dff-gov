@@ -27,7 +27,8 @@
 
 ## 📜 Propositions (PDF)
 
-* [💬 En discussion](propositions-pdf/en-discussion.md)
+* [💬 En discussion](propositions-pdf/en-discussion/README.md)
+  * [ℹ Contexte](propositions-pdf/en-discussion/contexte.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
   * [📜 #-1 - Mise à jour et clarification du rôle DF-Admin](propositions-pdf/propositions-acceptees/1-la-purge.md)
   * [📜 #-2 - Des hoodies DeFi France, avec Arianee](propositions-pdf/propositions-acceptees/2-des-hoodies-defi-france-avec-arianee.md)
