@@ -23,6 +23,8 @@ Pour se faire, la communauté DeFi France se retrouve principalement sur le serv
 Rejoindre le Discord DeFi France
 {% endembed %}
 
+![](<.gitbook/assets/dff-ecosystème (1).png>)
+
 Différents contenus francophones sont également proposés par nos membres :&#x20;
 
 * [BanklessFR](https://banklessfr.substack.com) : pour des articles de refléxion sur les principaux développements en DeFi
