@@ -1,5 +1,5 @@
 ---
-description: Proposition refusée
+description: Proposition refusée ❌
 ---
 
 # 📜 #-3 - Création du salon « Projet prometteur »
