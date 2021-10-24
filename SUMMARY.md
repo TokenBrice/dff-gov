@@ -34,6 +34,7 @@
   * [📜 #-2 - Des hoodies DeFi France, avec Arianee](propositions-pdf/propositions-acceptees/2-des-hoodies-defi-france-avec-arianee.md)
   * [📜 #-4 - Création du « Faucet communautaire »](propositions-pdf/propositions-acceptees/4-creation-du-faucet-communautaire.md)
   * [📜 #-5 - Création du salon « sidechains »](propositions-pdf/propositions-acceptees/5-creation-du-salon-sidechains.md)
+  * [📜 #-6 - Création du salon « ETHCC 2021 »](propositions-pdf/propositions-acceptees/6-creation-du-salon-ethcc-2021.md)
 * [❌ Propositions refusées](propositions-pdf/propositions-refusees/README.md)
   * [📜 #-3 - Création du salon « Projet prometteur »](propositions-pdf/propositions-refusees/3-creation-du-salon-projet-prometteur.md)
 
