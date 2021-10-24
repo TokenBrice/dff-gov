@@ -38,6 +38,7 @@
   * [📜 #-7 - Transparence des groupes de travail](propositions-pdf/propositions-acceptees/7-transparence-des-groupes-de-travail.md)
   * [📜 #-8 - Création d'un multisig](propositions-pdf/propositions-acceptees/8-creation-dun-multisig.md)
   * [📜 #-9 - Mise à jour du salon « Admin blabla »](propositions-pdf/propositions-acceptees/9-mise-a-jour-du-salon-admin-blabla.md)
+  * [📜 #-10 - Extension du salon « Développeur »](propositions-pdf/propositions-acceptees/10-extension-du-salon-developpeur.md)
 * [❌ Propositions refusées](propositions-pdf/propositions-refusees/README.md)
   * [📜 #-3 - Création du salon « Projet prometteur »](propositions-pdf/propositions-refusees/3-creation-du-salon-projet-prometteur.md)
   * [📜 #-10 - Suppression du salon « Admin-blabla »](propositions-pdf/propositions-refusees/10-suppression-du-salon-admin-blabla.md)
