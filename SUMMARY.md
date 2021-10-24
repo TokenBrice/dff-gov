@@ -36,6 +36,7 @@
   * [📜 #-5 - Création du salon « sidechains »](propositions-pdf/propositions-acceptees/5-creation-du-salon-sidechains.md)
   * [📜 #-6 - Création du salon « ETHCC 2021 »](propositions-pdf/propositions-acceptees/6-creation-du-salon-ethcc-2021.md)
   * [📜 #-7 - Transparence des groupes de travail](propositions-pdf/propositions-acceptees/7-transparence-des-groupes-de-travail.md)
+  * [📜 #-8 - Création d'un multisig](propositions-pdf/propositions-acceptees/8-creation-dun-multisig.md)
 * [❌ Propositions refusées](propositions-pdf/propositions-refusees/README.md)
   * [📜 #-3 - Création du salon « Projet prometteur »](propositions-pdf/propositions-refusees/3-creation-du-salon-projet-prometteur.md)
 
