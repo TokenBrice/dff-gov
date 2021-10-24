@@ -33,6 +33,7 @@
   * [📜 #-1 - Mise à jour et clarification du rôle DF-Admin](propositions-pdf/propositions-acceptees/1-la-purge.md)
   * [📜 #-2 - Des hoodies DeFi France, avec Arianee](propositions-pdf/propositions-acceptees/2-des-hoodies-defi-france-avec-arianee.md)
   * [📜 #-4 - Création du « Faucet communautaire »](propositions-pdf/propositions-acceptees/4-creation-du-faucet-communautaire.md)
+  * [📜 #-5 - Création du salon « sidechains »](propositions-pdf/propositions-acceptees/5-creation-du-salon-sidechains.md)
 * [❌ Propositions refusées](propositions-pdf/propositions-refusees/README.md)
   * [📜 #-3 - Création du salon « Projet prometteur »](propositions-pdf/propositions-refusees/3-creation-du-salon-projet-prometteur.md)
 
