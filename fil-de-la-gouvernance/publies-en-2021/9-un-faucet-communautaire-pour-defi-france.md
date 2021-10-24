@@ -1,4 +1,10 @@
-# #9
+---
+description: >-
+  Compte rendu de la gouvernance participative de la communauté DeFi France. Un
+  faucet communautaire pour DeFi France !
+---
+
+# #9 - Un faucet communautaire pour DeFi France !
 
 Compte rendu de la gouvernance participative de la communauté DeFi France. Un faucet communautaire pour DeFi France !
 

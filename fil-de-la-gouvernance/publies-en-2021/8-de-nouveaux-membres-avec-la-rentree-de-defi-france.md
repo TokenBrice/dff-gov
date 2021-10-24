@@ -1,4 +1,10 @@
-# #8
+---
+description: >-
+  Compte rendu de la gouvernance participative de la communauté DeFi France. De
+  nouveaux membres avec la rentrée de DeFi France !
+---
+
+# #8 - De nouveaux membres avec la rentrée de DeFi France !
 
 Compte rendu de la gouvernance participative de la communauté DeFi France. De nouveaux membres avec la rentrée de DeFi France !
 

@@ -1,4 +1,10 @@
-# #2
+---
+description: >-
+  La communauté DeFi France s’organise et ouvre de nouveaux espaces de
+  discussion : à vous lire !
+---
+
+# #2 - Organisation de DeFi France
 
 La communauté DeFi France s’organise et ouvre de nouveaux espaces de discussion : à vous lire !
 
@@ -12,14 +18,12 @@ Disiaque et Charles 53300 se sont portés volontaires pour former un **binôme d
 
 Au menu de cette semaine :
 
-1. Inauguration de salons ;
-2. Des nouvelles de Déméter ;
-3. Propositions de contenus ;
-4. Débats dans l’Agora ;
+* Inauguration de salons ;
+* Des nouvelles de Déméter ;
+* Propositions de contenus ;
+* Débats dans l’Agora ;
 
 Fort heureusement, le salon ⚖️ **Tribunal** n’a pas encore eu à fonctionner. Nous n’aurons donc pas à revenir sur les affaires juridiques de DeFi France : espérons que cela soit le cas pendant longtemps !
-
-***
 
 #### Inauguration de salons <a href="inauguration-de-salons" id="inauguration-de-salons"></a>
 

@@ -1,12 +1,18 @@
-# #5
+---
+description: >-
+  Compte rendu de la gouvernance participative de la communauté DeFi France. Un
+  site Web en cours de développement !
+---
+
+# #5 - Un site Web en cours de développement !
 
 Compte rendu de la gouvernance participative de la communauté DeFi France. Un site Web en cours de développement !
 
 Ces deux dernières semaines ont été l’occasion de débuter le travail sur les projets DeFi France. Au menu de ce fil de la gouvernance, vous pourrez lire :
 
-1. 💬 Des nouvelles du site Web DFF ;
-2. 📢 Perspectives pour la DAO ;
-3. 🏛️ Votes dans l’Agora ;
+* 💬 Des nouvelles du site Web DFF ;
+* 📢 Perspectives pour la DAO ;
+* 🏛️ Votes dans l’Agora ;
 
 #### 💬 Des nouvelles du site Web DFF <a href="des-nouvelles-du-site-web-dff" id="des-nouvelles-du-site-web-dff"></a>
 

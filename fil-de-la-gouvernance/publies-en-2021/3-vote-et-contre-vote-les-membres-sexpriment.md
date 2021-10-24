@@ -1,4 +1,10 @@
-# #3
+---
+description: >-
+  Compte rendu de la troisième semaine de gouvernance participative de la
+  communauté DeFi France. Vote et contre-vote : les membres s’expriment !
+---
+
+# #3 - Vote et contre-vote : les membres s’expriment !
 
 Compte rendu de la troisième semaine de gouvernance participative de la communauté DeFi France. Vote et contre-vote : les membres s’expriment !
 
@@ -6,9 +12,9 @@ Cette semaine a été l’occasion de nombreux débats sur l’organisation de l
 
 Au menu de ce fil de la gouvernance, vous pourrez lire :
 
-1. 💬 Organisation des salons ;
-2. 📢 Perspectives pour la DAO ;
-3. 🏛️ Votes dans l’Agora ;
+* 💬 Organisation des salons ;
+* 📢 Perspectives pour la DAO ;
+* 🏛️ Votes dans l’Agora ;
 
 > Mais avant cela, précisons que Noé, ambassadeur FR chez **Ocean Protocol** propose une conférence pour présenter ce protocole sur le serveur. La date a été fixée le **jeudi 20 mai à 19h00** : ne manquez pas ce rendez-vous !
 

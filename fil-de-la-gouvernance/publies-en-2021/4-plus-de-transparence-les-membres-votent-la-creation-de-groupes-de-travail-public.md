@@ -1,12 +1,19 @@
-# #4
+---
+description: >-
+  Compte rendu de la quatrième semaine de gouvernance participative de la
+  communauté DeFi France. Plus de transparence : les membres votent la création
+  de groupes de travail public !
+---
+
+# #4 - Plus de transparence : les membres votent la création de groupes de travail public !
 
 Compte rendu de la quatrième semaine de gouvernance participative de la communauté DeFi France. Plus de transparence : les membres votent la création de groupes de travail public !
 
 Cette semaine a été l’occasion de débats sur l’organisation de la communauté DeFi France. Au menu de ce fil de la gouvernance, vous pourrez lire :
 
-1. 💬 Création des groupes de travail ;
-2. 📢 Perspectives pour la DAO ;
-3. 🏛️ Votes dans l’Agora ;
+* 💬 Création des groupes de travail ;
+* 📢 Perspectives pour la DAO ;
+* 🏛️ Votes dans l’Agora ;
 
 ***
 

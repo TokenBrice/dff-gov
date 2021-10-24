@@ -1,4 +1,10 @@
-# #1 - Première Édition
+---
+description: >-
+  La communauté DeFi France s’ouvre et devient encore plus horizontale : c’est à
+  vous de jouer désormais !
+---
+
+# #1 - Retour sur la première semaine de gouvernance participative sur DeFi France
 
 La communauté DeFi France s’ouvre et devient encore plus horizontale : c’est à vous de jouer désormais !
 

@@ -9,21 +9,21 @@
   * [🌾 Le système de blé](gouvernance-defi-france/fonctionnement-de-defi-france/le-systeme-de-ble.md)
   * [🏗 Curation & modération communautaire](gouvernance-defi-france/fonctionnement-de-defi-france/curation-and-moderation-communautaire.md)
   * [🗳 Gouvernance communautaire](gouvernance-defi-france/fonctionnement-de-defi-france/gouvernance-communautaire.md)
+  * [ℹ Information et liens](gouvernance-defi-france/fonctionnement-de-defi-france/information-et-liens.md)
 
 ## 📰 Fil de la gouvernance
 
 * [⏳ Publiés en 2021](fil-de-la-gouvernance/publies-en-2021/README.md)
-  * [ℹ Information et liens](fil-de-la-gouvernance/publies-en-2021/information-et-liens.md)
-  * [#1 - Première Édition](fil-de-la-gouvernance/publies-en-2021/1-premiere-edition.md)
-  * [#2](fil-de-la-gouvernance/publies-en-2021/2.md)
-  * [#3](fil-de-la-gouvernance/publies-en-2021/3.md)
-  * [#4](fil-de-la-gouvernance/publies-en-2021/4.md)
-  * [#5](fil-de-la-gouvernance/publies-en-2021/5.md)
-  * [#6](fil-de-la-gouvernance/publies-en-2021/6.md)
-  * [#7](fil-de-la-gouvernance/publies-en-2021/7.md)
-  * [#8](fil-de-la-gouvernance/publies-en-2021/8.md)
-  * [#9](fil-de-la-gouvernance/publies-en-2021/9.md)
-  * [#10](fil-de-la-gouvernance/publies-en-2021/10.md)
+  * [#10 - Des aperçus du site web DeFi France !](fil-de-la-gouvernance/publies-en-2021/10-des-apercus-du-site-web-defi-france.md)
+  * [#9 - Un faucet communautaire pour DeFi France !](fil-de-la-gouvernance/publies-en-2021/9-un-faucet-communautaire-pour-defi-france.md)
+  * [#8 - De nouveaux membres avec la rentrée de DeFi France !](fil-de-la-gouvernance/publies-en-2021/8-de-nouveaux-membres-avec-la-rentree-de-defi-france.md)
+  * [#7 - Premier airdrop communautaire sur le discord de DeFi France !](fil-de-la-gouvernance/publies-en-2021/7-premier-airdrop-communautaire-sur-le-discord-de-defi-france.md)
+  * [#6 - Le multisig de DeFi France DAO a été créé !](fil-de-la-gouvernance/publies-en-2021/6-le-multisig-de-defi-france-dao-a-ete-cree.md)
+  * [#5 - Un site Web en cours de développement !](fil-de-la-gouvernance/publies-en-2021/5-un-site-web-en-cours-de-developpement.md)
+  * [#4 - Plus de transparence : les membres votent la création de groupes de travail public !](fil-de-la-gouvernance/publies-en-2021/4-plus-de-transparence-les-membres-votent-la-creation-de-groupes-de-travail-public.md)
+  * [#3 - Vote et contre-vote : les membres s’expriment !](fil-de-la-gouvernance/publies-en-2021/3-vote-et-contre-vote-les-membres-sexpriment.md)
+  * [#2 - Organisation de DeFi France](fil-de-la-gouvernance/publies-en-2021/2-organisation-de-defi-france.md)
+  * [#1 - Retour sur la première semaine de gouvernance participative sur DeFi France](fil-de-la-gouvernance/publies-en-2021/1-retour-sur-la-premiere-semaine-de-gouvernance-participative-sur-defi-france.md)
 
 ## 📜 Propositions (PDF)
 

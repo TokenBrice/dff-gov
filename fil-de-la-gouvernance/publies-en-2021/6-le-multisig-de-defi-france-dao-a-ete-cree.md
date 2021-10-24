@@ -1,4 +1,10 @@
-# #6
+---
+description: >-
+  Compte rendu de la gouvernance participative de la communauté DeFi France. Le
+  multisig de DeFi France DAO a été créé !
+---
+
+# #6 - Le multisig de DeFi France DAO a été créé !
 
 Compte rendu de la gouvernance participative de la communauté DeFi France. Le multisig de DeFi France DAO a été créé !
 

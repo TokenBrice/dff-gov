@@ -1,4 +1,10 @@
-# #10
+---
+description: >-
+  Compte rendu de la gouvernance participative de la communauté DeFi France. Des
+  aperçus du site web DeFi France !
+---
+
+# #10 - Des aperçus du site web DeFi France !
 
 Compte rendu de la gouvernance participative de la communauté DeFi France. Des aperçus du site web DeFi France !
 

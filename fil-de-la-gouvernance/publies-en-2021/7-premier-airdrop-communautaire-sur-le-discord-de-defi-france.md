@@ -1,4 +1,10 @@
-# #7
+---
+description: >-
+  Compte rendu de la gouvernance participative de la communauté DeFi France.
+  Premier airdrop communautaire sur le discord de DeFi France !
+---
+
+# #7 - Premier airdrop communautaire sur le discord de DeFi France !
 
 Compte rendu de la gouvernance participative de la communauté DeFi France. Premier airdrop communautaire sur le discord de DeFi France !
 
