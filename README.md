@@ -1,8 +1,8 @@
 ---
 description: >-
   DeFi France est la principale communauté francophone pour échanger autour de
-  la finance décentralisée. Elle se structure et s'organise grâce aux
-  contributions de ses membres, reconnues à leur juste va
+  la finance décentralisée. Elle s'organise grâce aux contributions de ses
+  membres, reconnues à leur juste valeur.
 cover: .gitbook/assets/dff-banner-bienvenue.png
 coverY: 0
 ---
