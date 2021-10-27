@@ -14,9 +14,9 @@ Implémentation : 08 Octobre 2021
 
 ![](../../.gitbook/assets/bbbb.png)
 
-| ID          | PROPOSITION                                   | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ----------- | --------------------------------------------- | ---------- | --------- | ------------ | -------- |
-| **PDF -**15 | Mise à jour et clarification du rôle DF-Admin | 08/10/2021 | 48 (55 %) | 2 (1 %)      | Acceptée |
+| ID         | PROPOSITION                                   | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ---------- | --------------------------------------------- | ---------- | --------- | ------------ | -------- |
+| **PDF -**1 | Mise à jour et clarification du rôle DF-Admin | 08/10/2021 | 48 (55 %) | 2 (1 %)      | Acceptée |
 
 ## **PROPOSITION ORIGINALE**
 
