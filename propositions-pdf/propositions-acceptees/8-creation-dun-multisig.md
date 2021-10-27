@@ -4,6 +4,8 @@ description: Proposition implémentée ✅
 
 # 📜 #-8 - Création d'un multisig
 
+## Proposition originale
+
 Proposition de création d'un multisig pour constituer une réserve pour la future DAO de Defi France
 
 ### Contexte

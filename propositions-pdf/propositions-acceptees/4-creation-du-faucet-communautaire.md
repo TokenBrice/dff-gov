@@ -6,6 +6,8 @@ description: Proposition implémentée ✅
 
 Le wallet 0xDFF commence à être correctement provisionné (merci entre autres à @Arthursw et @krkr). https://debank.com/profile/0xdff00c26598cb74e8a62f26c8a544ec7eac211b3
 
+## Proposition originale
+
 ### Rappel
 
 Le but est d'éviter aux dffeurs des frais de bridge via un mécanisme de donation communautaire "pay it backward".

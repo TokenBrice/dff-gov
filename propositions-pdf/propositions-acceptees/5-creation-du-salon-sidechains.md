@@ -4,6 +4,8 @@ description: Proposition implémentée ✅
 
 # 📜 #-5 - Création du salon « sidechains »
 
+## Proposition originale
+
 ### Contexte
 
 Les sidechains et notamment Avalanche suscitent de nombreuses questions.

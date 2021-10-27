@@ -4,11 +4,13 @@ description: Proposition en cours d'implémentation 🙌
 
 # 📜 #-7 - Transparence des groupes de travail
 
+## Proposition originale
+
 ### Contexte&#x20;
 
 Il existe aujourd'hui plusieurs groupes de travail sur le serveur Discord qui ne sont pas assez visibles.
 
-### Proposition
+### Changements
 
 1. Il est créé une nouvelle section appelée "Groupes de travail" rassemblant l'ensemble des salons dédiés à l'organisation interne du Discord, aux publications médiatiques et aux projets DeFi Francophone. Ils permettent de rendre transparent l'implication des membres et les décisions prises collectivement.
 2. Chaque groupe de travail comporte plusieurs "porteurs de projet" qui ont en charge l'organisation et le suivi régulier du groupe. Ces membres de confiance sont élus après discussion dans l'Agora et mise au vote.
