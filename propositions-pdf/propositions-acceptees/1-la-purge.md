@@ -8,8 +8,6 @@ description: Proposition implémentée le 08 octobre 2021 ✅
 | ---------- | --------------------------------------------- | ---------- | --------- | ------------ | -------- |
 | **PDF -**1 | Mise à jour et clarification du rôle DF-Admin | 08/10/2021 | 48 (55 %) | 2 (1 %)      | Acceptée |
 
-## ****
-
 ## **Proposition originale**
 
 ### **But**

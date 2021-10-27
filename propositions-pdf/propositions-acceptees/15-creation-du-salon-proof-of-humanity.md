@@ -4,12 +4,6 @@ description: Proposition implémentée ✅
 
 # 📜 #-15 - Création du salon « Proof of Humanity »
 
-| ID          | PROPOSITION                             | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ----------- | --------------------------------------- | ---------- | --------- | ------------ | -------- |
-| **PDF -**15 | Création du salon « Proof of Humanity » | 27/04/2021 | 135 (79%) | 0 (0%)       | Acceptée |
-
-## Proposition originale
-
 1\. Les membres Defi France peuvent s'inscrire à une liste en vue d'un vouch sur Proof of Humanity.
 
 2\. Cette liste est organisée à l'aide d'un bot Discord qui affiche les membres par ordre décroissant de blé. Un membre qui a été vouché est invité à voucher un autre membre dans cette même liste.
