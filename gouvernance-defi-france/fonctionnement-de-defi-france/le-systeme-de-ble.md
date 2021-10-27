@@ -34,21 +34,21 @@ La distribution de 🌾 blé se fait chaque semaine, et les membres peuvent voir
 
 **Tous les canaux n'ont pas la même pondération en blé** : certains sont favorisés dans le calcul pour reconnaître les contributions qui y sont partagées plus justement. Les membres peuvent voter pour changer cette pondération, comme cela a déjà été fait :
 
-|            CANAL           |    PONDÉRATION 🌾    |
-| :------------------------: | :------------------: |
-|      #🔒-admin-blabla      | x0 (intialement 2.5) |
-|         #📢-annonce        |          x10         |
-|        #🐥-débutants       |         x1.5         |
-|          #🌌-defi          |          x1          |
-|       #🚜-stratégies       |         x2.5         |
-|      #🙍-présentation      |          x5          |
-|       #🎨-art-digital      |          x1          |
-|       #🤑-spéculation      |         x0.5         |
-|           #🍹-bar          |         x0.7         |
-| #🔨-développement-sécurité |         x1.5         |
-|        #🤹-meme-defi       |         x2.5         |
-|           #💼-job          |          x5          |
-|          #🏟-agora         |         x2.5         |
-|        #🏅-panthéon        |          x50         |
+|            CANAL           |     PONDÉRATION 🌾    |
+| :------------------------: | :-------------------: |
+|      #🔒-admin-blabla      | x0 (initialement 2.5) |
+|         #📢-annonce        |          x10          |
+|        #🐥-débutants       |          x1.5         |
+|          #🌌-defi          |           x1          |
+|       #🚜-stratégies       |          x2.5         |
+|      #🙍-présentation      |           x5          |
+|       #🎨-art-digital      |           x1          |
+|       #🤑-spéculation      |          x0.5         |
+|           #🍹-bar          |          x0.7         |
+| #🔨-développement-sécurité |          x1.5         |
+|        #🤹-meme-defi       |          x2.5         |
+|           #💼-job          |           x5          |
+|          #🏟-agora         |          x2.5         |
+|        #🏅-panthéon        |          x50          |
 
 ***
