@@ -4,6 +4,10 @@ description: Proposition en cours d'implémentation 🙌
 
 # 📜 #-2 - Des hoodies DeFi France, avec Arianee
 
+| ID         | PROPOSITION                           | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ---------- | ------------------------------------- | ---------- | --------- | ------------ | -------- |
+| **PDF -2** | Des hoodies DeFi France, avec Arianee | 26/09/2021 | 26 (48 %) | 0 (0 %)      | Acceptée |
+
 ## Proposition originale
 
 ### But

@@ -4,6 +4,10 @@ description: Proposition implémentée ✅
 
 # 📜 #-8 - Création d'un multisig
 
+| ID         | PROPOSITION            | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ---------- | ---------------------- | ---------- | --------- | ------------ | -------- |
+| **PDF -8** | Création d'un multisig | 15/05/2021 | 52 (21 %) | 6 (18 %)     | Acceptée |
+
 ## Proposition originale
 
 Proposition de création d'un multisig pour constituer une réserve pour la future DAO de Defi France

@@ -4,6 +4,10 @@ description: Proposition implémentée ✅
 
 # 📜 #-14 - Création du « salon Débutant »
 
+| ID          | PROPOSITION                    | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ----------- | ------------------------------ | ---------- | --------- | ------------ | -------- |
+| **PDF -**14 | Création du « salon Débutant » | 01/05/2021 | 133 (61%) | 3 (13%)      | Acceptée |
+
 ## Proposition originale
 
 Il est créé un nouveau salon appelé « debutants-defi » dans le discord DeFi France.

@@ -4,6 +4,10 @@ description: Proposition implémentée ✅
 
 # 📜 #-13 - Création du salon « Stratégies »
 
+| ID          | PROPOSITION                      | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ----------- | -------------------------------- | ---------- | --------- | ------------ | -------- |
+| **PDF -**13 | Création du salon « Stratégies » | 01/05/2021 | 218 (86%) | 1 (0%)       | Acceptée |
+
 ## Proposition originale
 
 Je vous propose le second penchant de la proposition de @Disiaque : un salon pour discuter de stratégies entre fermiers ![👩‍🌾](https://discord.com/assets/c4c1fa7998175ce6787fe4330588fa04.svg) Je pense qu'avec trois canaux avec des angles clairs on aura une bonne synergie :

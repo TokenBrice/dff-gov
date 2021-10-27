@@ -1,22 +1,14 @@
 ---
-description: Proposition implémentée ✅
+description: Proposition implémentée le 08 octobre 2021 ✅
 ---
 
 # 📜 #-1 - Mise à jour et clarification du rôle DF-Admin
 
-Formalisation : 05 Octobre 2021
-
-Vote Agora : 05 Octobre 2021
-
-![Résultats du vote sur PDF -1](../../.gitbook/assets/aaaa.png)
-
-Implémentation : 08 Octobre 2021
-
-![](../../.gitbook/assets/bbbb.png)
-
 | ID         | PROPOSITION                                   | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
 | ---------- | --------------------------------------------- | ---------- | --------- | ------------ | -------- |
 | **PDF -**1 | Mise à jour et clarification du rôle DF-Admin | 08/10/2021 | 48 (55 %) | 2 (1 %)      | Acceptée |
+
+## ****
 
 ## **Proposition originale**
 
