@@ -4,8 +4,6 @@ description: 💬 En discussion
 
 # PDF #0 - Orientation générale de DeFi France
 
-## Proposition originale
-
 ### Statut
 
 DeFi France est une communauté agrégeant des initiatives individuelles et collectives autour de la finance décentralisée. Cette dernière est conçue comme un écosystème mondial ainsi qu’un outil aidant les individus et les institutions à gérer leurs actifs en toute autonomie et indépendance.

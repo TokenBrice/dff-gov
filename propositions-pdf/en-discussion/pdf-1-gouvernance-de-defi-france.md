@@ -4,6 +4,8 @@ description: 💬 En discussion
 
 # PDF #1 - Gouvernance de DeFi France
 
+## Proposition originale
+
 ### DeFi France DAO
 
 La gouvernance des activités de DeFi France est organisée de manière communautaire et prend la forme d’une DAO intitulée « DeFi France DAO ». Cette dernière met en place les moyens suivants pour répondre à ses missions :
