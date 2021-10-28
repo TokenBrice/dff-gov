@@ -4,6 +4,14 @@ description: Proposition implémentée ✅
 
 # 📜 #-4 - Création du « Faucet communautaire »
 
+| ID         | PROPOSITION                          | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ---------- | ------------------------------------ | ---------- | --------- | ------------ | -------- |
+| **PDF -4** | Création du « Faucet communautaire » | 18/09/2021 | 26 (33 %) | 0 (0 %)      | Acceptée |
+
+## Proposition originale
+
+### Contexte
+
 Le wallet 0xDFF commence à être correctement provisionné (merci entre autres à @Arthursw et @krkr). https://debank.com/profile/0xdff00c26598cb74e8a62f26c8a544ec7eac211b3
 
 ### Rappel

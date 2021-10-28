@@ -30,7 +30,7 @@
 * [💬 En discussion](propositions-pdf/en-discussion/README.md)
   * [PDF #0 - Orientation générale de DeFi France](propositions-pdf/en-discussion/pdf-0-orientation-generale-de-defi-france.md)
   * [PDF #1 - Gouvernance de DeFi France](propositions-pdf/en-discussion/pdf-1-gouvernance-de-defi-france.md)
-  * [PDF #2 - Ajout d’un salon « #poubelle » révision n°03](propositions-pdf/en-discussion/pdf-2-ajout-dun-salon-poubelle-revision-n-03.md)
+  * [PROPOSITION #16 - Ajout d’un salon « #poubelle »](propositions-pdf/en-discussion/proposition-16-ajout-dun-salon-poubelle.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
   * [📜 #-1 - Mise à jour et clarification du rôle DF-Admin](propositions-pdf/propositions-acceptees/1-la-purge.md)
   * [📜 #-2 - Des hoodies DeFi France, avec Arianee](propositions-pdf/propositions-acceptees/2-des-hoodies-defi-france-avec-arianee.md)

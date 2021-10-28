@@ -4,6 +4,12 @@ description: Proposition implémentée ✅
 
 # 📜 #-5 - Création du salon « sidechains »
 
+| ID         | PROPOSITION                      | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ---------- | -------------------------------- | ---------- | --------- | ------------ | -------- |
+| **PDF -5** | Création du salon « sidechains » | 22/08/2021 | 32 (29 %) | 8 (21 %)     | Acceptée |
+
+## Proposition originale
+
 ### Contexte
 
 Les sidechains et notamment Avalanche suscitent de nombreuses questions.
