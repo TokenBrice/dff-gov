@@ -66,6 +66,10 @@ Ils s'assurent que ces dernières soient correctement formalisées à partir de 
 
 Les éditeurs réagissent enfin avec l'emoji-réaction ☑ qui signalent que la proposition est recevable formellement. Les propositions qui ne sont pas déclarées conformes ne peuvent être soumises au vote, même si elles rencontrent le soutien nécessaire à l'aide de l'émoji 📜.
 
+{% hint style="info" %}
+Le vote dans l'Agora se réfère à la proposition telle que formalisée sur ce site (lien). Cela permet également de ne pas être affecté par la limite de caractères par messages mis en place sur Discord.
+{% endhint %}
+
 Tout éditeur qui outrepasserait ces fonctions en censurant les autres membres DeFi France peut être révoqué par décision de l'Agora.
 
 #### 5. Application
