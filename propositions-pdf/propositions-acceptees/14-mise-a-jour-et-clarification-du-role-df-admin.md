@@ -2,11 +2,11 @@
 description: Proposition implémentée le 08 octobre 2021 ✅
 ---
 
-# 📜 #-1 - Mise à jour et clarification du rôle DF-Admin
+# 📜 #14 - Mise à jour et clarification du rôle DF-Admin
 
-| ID         | PROPOSITION                                   | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ---------- | --------------------------------------------- | ---------- | --------- | ------------ | -------- |
-| **PDF -**1 | Mise à jour et clarification du rôle DF-Admin | 08/10/2021 | 48 (55 %) | 2 (1 %)      | Acceptée |
+| ID                 | PROPOSITION                                   | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ------------------ | --------------------------------------------- | ---------- | --------- | ------------ | -------- |
+| **Proposition 14** | Mise à jour et clarification du rôle DF-Admin | 08/10/2021 | 48 (55 %) | 2 (1 %)      | Acceptée |
 
 ## **Proposition originale**
 

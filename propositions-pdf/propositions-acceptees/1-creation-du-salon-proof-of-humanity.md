@@ -2,11 +2,11 @@
 description: Proposition implémentée ✅
 ---
 
-# 📜 #-15 - Création du salon « Proof of Humanity »
+# 📜 #1 - Création du salon « Proof of Humanity »
 
-| ID          | PROPOSITION                             | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ----------- | --------------------------------------- | ---------- | --------- | ------------ | -------- |
-| **PDF -**15 | Création du salon « Proof of Humanity » | 27/04/2021 | 135 (79%) | 0 (0%)       | Acceptée |
+| ID                | PROPOSITION                             | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ----------------- | --------------------------------------- | ---------- | --------- | ------------ | -------- |
+| **Proposition 1** | Création du salon « Proof of Humanity » | 27/04/2021 | 135 (79%) | 0 (0%)       | Acceptée |
 
 ## Proposition originale
 

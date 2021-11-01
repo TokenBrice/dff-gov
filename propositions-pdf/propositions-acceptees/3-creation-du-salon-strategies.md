@@ -2,11 +2,11 @@
 description: Proposition implémentée ✅
 ---
 
-# 📜 #-13 - Création du salon « Stratégies »
+# 📜 #3 - Création du salon « Stratégies »
 
-| ID          | PROPOSITION                      | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ----------- | -------------------------------- | ---------- | --------- | ------------ | -------- |
-| **PDF -**13 | Création du salon « Stratégies » | 01/05/2021 | 218 (86%) | 1 (0%)       | Acceptée |
+| ID                | PROPOSITION                      | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ----------------- | -------------------------------- | ---------- | --------- | ------------ | -------- |
+| **Proposition 3** | Création du salon « Stratégies » | 01/05/2021 | 218 (86%) | 1 (0%)       | Acceptée |
 
 ## Proposition originale
 

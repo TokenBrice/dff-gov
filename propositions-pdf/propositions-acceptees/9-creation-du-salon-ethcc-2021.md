@@ -2,11 +2,11 @@
 description: Proposition implémentée ✅
 ---
 
-# 📜 #-6 - Création du salon « ETHCC 2021 »
+# 📜 #9 - Création du salon « ETHCC 2021 »
 
-| ID         | PROPOSITION                                   | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ---------- | --------------------------------------------- | ---------- | --------- | ------------ | -------- |
-| **PDF -6** | Mise à jour et clarification du rôle DF-Admin | 21/05/2021 | 28 (46 %) | 0 (0 %)      | Acceptée |
+| ID                | PROPOSITION                                   | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ----------------- | --------------------------------------------- | ---------- | --------- | ------------ | -------- |
+| **Proposition 9** | Mise à jour et clarification du rôle DF-Admin | 21/05/2021 | 28 (46 %) | 0 (0 %)      | Acceptée |
 
 ## Proposition originale
 

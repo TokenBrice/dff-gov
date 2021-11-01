@@ -2,7 +2,7 @@
 description: 💬 En discussion
 ---
 
-# PDF #0 - Orientation générale de DeFi France
+# #16 - Orientation générale de DeFi France
 
 ## Proposition originale
 
@@ -37,4 +37,4 @@ DeFi France s’engage à respecter les valeurs suivantes dans ses activités et
 
 > **Implémentation**
 >
-> * Création de la proposition PDF 0 qui agit comme constitution, puisqu’elle formalise l’orientation générale de DeFi France.
+> * Création de la proposition 16 qui agit comme constitution, puisqu’elle formalise l’orientation générale de DeFi France.

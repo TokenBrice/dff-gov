@@ -2,11 +2,11 @@
 description: Proposition implémentée ✅
 ---
 
-# 📜 #-8 - Création d'un multisig
+# 📜 #7 - Création d'un multisig
 
-| ID         | PROPOSITION            | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ---------- | ---------------------- | ---------- | --------- | ------------ | -------- |
-| **PDF -8** | Création d'un multisig | 15/05/2021 | 52 (21 %) | 6 (18 %)     | Acceptée |
+| ID                | PROPOSITION            | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ----------------- | ---------------------- | ---------- | --------- | ------------ | -------- |
+| **Proposition 7** | Création d'un multisig | 15/05/2021 | 52 (21 %) | 6 (18 %)     | Acceptée |
 
 ## Proposition originale
 

@@ -2,11 +2,11 @@
 description: Proposition implémentée ✅
 ---
 
-# 📜 #-4 - Création du « Faucet communautaire »
+# 📜 #11 - Création du « Faucet communautaire »
 
-| ID         | PROPOSITION                          | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ---------- | ------------------------------------ | ---------- | --------- | ------------ | -------- |
-| **PDF -4** | Création du « Faucet communautaire » | 18/09/2021 | 26 (33 %) | 0 (0 %)      | Acceptée |
+| ID                 | PROPOSITION                          | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ------------------ | ------------------------------------ | ---------- | --------- | ------------ | -------- |
+| **Proposition 11** | Création du « Faucet communautaire » | 18/09/2021 | 26 (33 %) | 0 (0 %)      | Acceptée |
 
 ## Proposition originale
 

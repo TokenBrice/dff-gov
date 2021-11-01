@@ -2,11 +2,11 @@
 description: Proposition refusée ❌
 ---
 
-# 📜 #-3 - Création du salon « Projet prometteur »
+# 📜 #12- Création du salon « Projet prometteur »
 
-| ID     | PROPOSITION                             | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT  |
-| ------ | --------------------------------------- | ---------- | --------- | ------------ | ------- |
-| PDF -3 | Création du salon « Projet prometteur » | 24/09/2021 | 22 (19 %) | 6 (25 %)     | Rejetée |
+| ID             | PROPOSITION                             | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT  |
+| -------------- | --------------------------------------- | ---------- | --------- | ------------ | ------- |
+| Proposition 12 | Création du salon « Projet prometteur » | 24/09/2021 | 22 (19 %) | 6 (25 %)     | Rejetée |
 
 ## Proposition originale
 

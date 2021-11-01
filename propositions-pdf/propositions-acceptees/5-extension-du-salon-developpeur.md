@@ -2,13 +2,11 @@
 description: Proposition implémentée ✅
 ---
 
-# 📜 #-11 - Extension du salon « Développeur »
+# 📜 #5 - Extension du salon « Développeur »
 
-
-
-| ID          | PROPOSITION                        | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ----------- | ---------------------------------- | ---------- | --------- | ------------ | -------- |
-| **PDF -**11 | Extension du salon « Développeur » | 04/05/2021 | 144 (72%) | 2 (0%)       | Acceptée |
+| ID                | PROPOSITION                        | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ----------------- | ---------------------------------- | ---------- | --------- | ------------ | -------- |
+| **Proposition 5** | Extension du salon « Développeur » | 04/05/2021 | 144 (72%) | 2 (0%)       | Acceptée |
 
 ## Proposition originale
 

@@ -2,11 +2,11 @@
 description: Proposition implémentée ✅
 ---
 
-# 📜 #-14 - Création du « salon Débutant »
+# 📜 #2 - Création du « salon Débutant »
 
-| ID          | PROPOSITION                    | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ----------- | ------------------------------ | ---------- | --------- | ------------ | -------- |
-| **PDF -**14 | Création du « salon Débutant » | 01/05/2021 | 133 (61%) | 3 (13%)      | Acceptée |
+| ID                | PROPOSITION                    | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ----------------- | ------------------------------ | ---------- | --------- | ------------ | -------- |
+| **Proposition 2** | Création du « salon Débutant » | 01/05/2021 | 133 (61%) | 3 (13%)      | Acceptée |
 
 ## Proposition originale
 

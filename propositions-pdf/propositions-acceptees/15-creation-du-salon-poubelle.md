@@ -1,8 +1,12 @@
 ---
-description: 💬 En discussion
+description: Proposition en cours d'implémentation 🙌
 ---
 
-# Proposition - Ajout d’un salon « #poubelle »
+# 📜 #15 - Création du salon « Poubelle »
+
+| ID                 | PROPOSITION                    | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ------------------ | ------------------------------ | ---------- | --------- | ------------ | -------- |
+| **Proposition 15** | Création du salon « Poubelle » | 01/11/2021 | 31 (52%)  | 0 (0%)       | Acceptée |
 
 ## **Proposition originale**
 

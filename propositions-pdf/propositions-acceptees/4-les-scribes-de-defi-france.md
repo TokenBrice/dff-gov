@@ -2,11 +2,11 @@
 description: Proposition implémentée ✅
 ---
 
-# 📜 #-12 - Les scribes de DeFi France
+# 📜 #4 - Les scribes de DeFi France
 
-| ID          | PROPOSITION                | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ----------- | -------------------------- | ---------- | --------- | ------------ | -------- |
-| **PDF -**12 | Les scribes de DeFi France | 03/05/2021 | 90 (60%)  | 0 (0%)       | Acceptée |
+| ID                | PROPOSITION                | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ----------------- | -------------------------- | ---------- | --------- | ------------ | -------- |
+| **Proposition 4** | Les scribes de DeFi France | 03/05/2021 | 90 (60%)  | 0 (0%)       | Acceptée |
 
 ## Proposition originale
 

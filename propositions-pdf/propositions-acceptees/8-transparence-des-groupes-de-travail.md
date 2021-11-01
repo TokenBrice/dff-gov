@@ -2,11 +2,11 @@
 description: Proposition en cours d'implémentation 🙌
 ---
 
-# 📜 #-7 - Transparence des groupes de travail
+# 📜 #8 - Transparence des groupes de travail
 
-| ID         | PROPOSITION                         | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ---------- | ----------------------------------- | ---------- | --------- | ------------ | -------- |
-| **PDF -7** | Transparence des groupes de travail | 21/05/2021 | 48 (47 %) | 1 (2 %)      | Acceptée |
+| ID                | PROPOSITION                         | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ----------------- | ----------------------------------- | ---------- | --------- | ------------ | -------- |
+| **Proposition 8** | Transparence des groupes de travail | 21/05/2021 | 48 (47 %) | 1 (2 %)      | Acceptée |
 
 ## Proposition originale
 
