@@ -1,5 +1,5 @@
 ---
-description: Proposition en cours d'implémentation 🙌
+description: Proposition implémentée le 02 novembre 2021 ✅
 ---
 
 # 📜 #15 - Création du salon « Poubelle »
