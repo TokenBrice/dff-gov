@@ -2,7 +2,7 @@
 description: 💬 En discussion
 ---
 
-# PDF #1 - Gouvernance de DeFi France
+# #17 - Gouvernance de DeFi France
 
 ## Proposition originale
 
@@ -21,13 +21,13 @@ DeFi France DAO ne possède pas à ce jour de token pour inciter les projets ou 
 
 #### Définition
 
-Les Propositions DeFi France, abrégées PDF, correspondent aux propositions finales émises par l'Agora, qu'elles soient acceptées ou non lors du vote. Tout membre de DeFi France peut proposer une amélioration dans l'Agora qui sera progressivement formalisée en proposition si elle rencontre le soutien nécessaire.
+Les Propositions DeFi France correspondent aux propositions finales émises par l'Agora, qu'elles soient acceptées ou non lors du vote. Tout membre de DeFi France peut proposer une amélioration dans l'Agora qui sera progressivement formalisée en proposition si elle rencontre le soutien nécessaire.
 
 #### Périmètre des propositions
 
 DeFi France DAO peut entreprendre de nombreuses actions grâce au mécanisme des propositions :
 
-* **Amendements de la constitution**. PDF 0 cadre le fonctionnement de DeFi France en instituant les missions et engagements du consortium. Tous les amendements déclaratifs de même nature que ces premiers y seront ajoutés.
+* **Amendements des orientations générales**. Les orientations géénrales de DeFi France, appellées également « constitution », cadre le fonctionnement de DeFi France en instituant les missions et engagements du consortium. Tous les amendements déclaratifs de même nature que ces premiers y seront ajoutés.
 * **Gestion Discord**. Création de nouveaux rôles ou salons, promotions/démotions des rôles, changements sur les salon existants, nouveaux systèmes par emoji-réaction, ajustement des paramètres de Déméter.
 * **Médias DeFi France**. Publications sur le compte [Twitter](https://twitter.com/DeFi\_FR), accès au compte [YouTube](https://www.youtube.com/c/defifrance), pouvoir suggestif sur les projets composant DeFi France.
 * **Groupe de travail**. Création de groupe de travail (ainsi que les rôles et canaux et autre infrastructure nécessaire) pour mener à bien un projet entrepris par la communauté DeFi France.
@@ -79,4 +79,3 @@ Tout éditeur qui outrepasserait ces fonctions en censurant les autres membres D
 > **Implémentation**
 >
 > * À compter de la mise en application de la proposition, les votes sur les propositions qui ne suivent pas le standard établi dans ce document seront jugées nuls car non applicables.
-> * Les quatorze propositions déjà passées, qui ne suivent donc pas forcément le standard mais ont été implémentées, sont reconnues dans l'ordre chronologique comme **PDF -14 -> PDF -1**.
