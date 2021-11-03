@@ -38,7 +38,7 @@
   * [📜 #10 - Création du salon « sidechains »](propositions-pdf/propositions-acceptees/10-creation-du-salon-sidechains.md)
   * [📜 #9 - Création du salon « ETHCC 2021 »](propositions-pdf/propositions-acceptees/9-creation-du-salon-ethcc-2021.md)
   * [📜 #8 - Transparence des groupes de travail](propositions-pdf/propositions-acceptees/8-transparence-des-groupes-de-travail.md)
-  * [📜 #7 - Création d'un multisig](propositions-pdf/propositions-acceptees/7-creation-dun-multisig.md)
+  * [📜 #7 - Création du multisig DFF](propositions-pdf/propositions-acceptees/7-creation-du-multisig-dff.md)
   * [📜 #7 - Mise à jour du salon « Admin blabla »](propositions-pdf/propositions-acceptees/7-mise-a-jour-du-salon-admin-blabla.md)
   * [📜 #5 - Extension du salon « Développeur »](propositions-pdf/propositions-acceptees/5-extension-du-salon-developpeur.md)
   * [📜 #4 - Les scribes de DeFi France](propositions-pdf/propositions-acceptees/4-les-scribes-de-defi-france.md)

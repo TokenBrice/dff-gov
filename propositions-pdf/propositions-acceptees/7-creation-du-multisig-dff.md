@@ -1,12 +1,12 @@
 ---
-description: Proposition implémentée ✅
+description: Proposition implémentée le 16 juin 2021 ✅
 ---
 
-# 📜 #7 - Création d'un multisig
+# 📜 #7 - Création du multisig DFF
 
-| ID                | PROPOSITION            | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
-| ----------------- | ---------------------- | ---------- | --------- | ------------ | -------- |
-| **Proposition 7** | Création d'un multisig | 15/05/2021 | 52 (21 %) | 6 (18 %)     | Acceptée |
+| ID                | PROPOSITION              | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ----------------- | ------------------------ | ---------- | --------- | ------------ | -------- |
+| **Proposition 7** | Création du multisig DFF | 15/05/2021 | 52 (21 %) | 6 (18 %)     | Acceptée |
 
 ## Proposition originale
 
