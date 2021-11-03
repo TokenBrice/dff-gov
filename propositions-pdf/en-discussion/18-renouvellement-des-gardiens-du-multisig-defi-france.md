@@ -25,7 +25,7 @@ Lorsque ces quatre points seront décidés, la proposition pourra être rédigé
 
 ### Implémentation
 
-Les gestionnaires de la multisig devront gérer l’implémentation de cette proposition.
+Les gestionnaires du multisig devront gérer l’implémentation de cette proposition.
 
 ### Rédacteur
 
