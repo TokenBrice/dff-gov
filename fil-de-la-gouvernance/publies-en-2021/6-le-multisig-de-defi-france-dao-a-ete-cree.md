@@ -21,13 +21,13 @@ Vous trouverez leurs identifiants ci-dessous :
 
 | ID | PSEUDOS                                               |
 | -- | ----------------------------------------------------- |
-| 1  | Arthur W                                              |
+| 1  | [ArthurSW](https://twitter.com/Arthurws14)            |
 | 2  | [Charles53300](https://twitter.com/C53300)            |
 | 3  | [CookingCryptos](https://twitter.com/CookingCryptos)  |
 | 4  | Cyrille                                               |
 | 5  | [Julienperma](https://twitter.com/julienperma)        |
 | 6  | [L0GYKAL](https://twitter.com/L0GYKAL)                |
-| 7  | mratsim                                               |
+| 7  | Mratsim                                               |
 | 8  | [NolanVanmoortel](https://twiter.com/nolanVanmoortel) |
 | 9  | Owerache                                              |
 | 10 | [TokenBrice](https://twitter.com/tokenBrice)          |
