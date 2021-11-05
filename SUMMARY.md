@@ -54,5 +54,6 @@
 
 * [🧭 Aperçu des responsabilités](group-1/page-3.md)
   * [⚙ Administrateur technique](roles/apercu-des-responsabilites/administrateur-technique.md)
+  * [💸 Gardien](roles/apercu-des-responsabilites/gardien.md)
   * [🖋 Scribe](roles/apercu-des-responsabilites/scribe.md)
   * [🎖 Membre d'honneur](roles/apercu-des-responsabilites/membre-dhonneur.md)

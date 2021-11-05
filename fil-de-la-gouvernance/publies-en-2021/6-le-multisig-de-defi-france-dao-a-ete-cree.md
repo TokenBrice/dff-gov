@@ -19,18 +19,18 @@ La proposition de création de multisig votée en mai dernier a vu le jour : dix
 
 Vous trouverez leurs identifiants ci-dessous :
 
-| ID | PSEUDOS           |
-| -- | ----------------- |
-| 1  | @Arthur W         |
-| 2  | @Charles 53300    |
-| 3  | @Cookingcrypto    |
-| 4  | @Cyrille          |
-| 5  | @Julienperma      |
-| 6  | @L0GYK4L          |
-| 7  | @mratsim          |
-| 8  | @Nolan Vanmoortel |
-| 9  | @owerache         |
-| 10 | @TokenBrice.xyz   |
+| ID | PSEUDOS                                               |
+| -- | ----------------------------------------------------- |
+| 1  | Arthur W                                              |
+| 2  | [Charles53300](https://twitter.com/C53300)            |
+| 3  | [CookingCryptos](https://twitter.com/CookingCryptos)  |
+| 4  | Cyrille                                               |
+| 5  | [Julienperma](https://twitter.com/julienperma)        |
+| 6  | [L0GYKAL](https://twitter.com/L0GYKAL)                |
+| 7  | mratsim                                               |
+| 8  | [NolanVanmoortel](https://twiter.com/nolanVanmoortel) |
+| 9  | Owerache                                              |
+| 10 | [TokenBrice](https://twitter.com/tokenBrice)          |
 
 Sur ces dix signataires, un minimum de six est désormais requis pour passer une transaction. Là encore, la décision a été prise dans l'🏛️Agora du serveur Discord grâce à @Cyrille qui a supervisé le projet. Un grand merci à lui !🙏
 
