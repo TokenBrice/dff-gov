@@ -27,7 +27,7 @@ Vous trouverez leurs identifiants ci-dessous :
 | 4  | [Cyrille](https://twitter.com/cyrille\_briere)        |
 | 5  | [Julienperma](https://twitter.com/julienperma)        |
 | 6  | [L0GYKAL](https://twitter.com/L0GYKAL)                |
-| 7  | Mratsim                                               |
+| 7  | [Mratsim](https://twitter.com/m\_ratsim)              |
 | 8  | [NolanVanmoortel](https://twiter.com/nolanVanmoortel) |
 | 9  | Owerache                                              |
 | 10 | [TokenBrice](https://twitter.com/tokenBrice)          |
