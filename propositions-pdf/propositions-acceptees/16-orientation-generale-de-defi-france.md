@@ -1,8 +1,14 @@
 ---
-description: 💬 En discussion
+description: Proposition implémentée le 06 novembre 2021 ✅
 ---
 
-# #16 - Orientation générale de DeFi France
+# 📜 #16 - Orientation générale de DeFi France
+
+
+
+| ID                 | PROPOSITION                         | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
+| ------------------ | ----------------------------------- | ---------- | --------- | ------------ | -------- |
+| **Proposition 16** | Orientation générale de DeFi France | 06/11/2021 | 51 (33%)  | 1 (8%)       | Acceptée |
 
 ## Proposition originale
 
