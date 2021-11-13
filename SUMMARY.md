@@ -14,6 +14,7 @@
 ## 📰 Fil de la gouvernance
 
 * [⏳ Publiés en 2021](fil-de-la-gouvernance/publies-en-2021/README.md)
+  * [#11 - Une orientation générale pour DeFi France](fil-de-la-gouvernance/publies-en-2021/11-une-orientation-generale-pour-defi-france.md)
   * [#10 - Des aperçus du site web DeFi France !](fil-de-la-gouvernance/publies-en-2021/10-des-apercus-du-site-web-defi-france.md)
   * [#9 - Un faucet communautaire pour DeFi France !](fil-de-la-gouvernance/publies-en-2021/9-un-faucet-communautaire-pour-defi-france.md)
   * [#8 - De nouveaux membres avec la rentrée de DeFi France !](fil-de-la-gouvernance/publies-en-2021/8-de-nouveaux-membres-avec-la-rentree-de-defi-france.md)
