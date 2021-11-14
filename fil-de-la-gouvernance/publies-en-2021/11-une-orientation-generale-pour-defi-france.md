@@ -39,7 +39,7 @@ En complément du site web DeFi France (en cours de développement), un nouvel o
 
 L'ensemble se veut dynamique et public pour mieux rendre compte des décisions prises. Vous pouvez retrouver cet outil important de l'écosystème DeFi France à l'adresse suivante : [https://docs.defi-france.org](https://docs.defi-france.org)
 
-Le GitHub qui l'héberge est situé ici : https://github.com/TokenBrice/dff-gov
+Le GitHub qui l'héberge est situé ici : [https://github.com/TokenBrice/dff-gov](https://github.com/TokenBrice/dff-gov)
 
 L'accès administrateur est pour le moment accordé à [TokenBrice](https://twitter.com/TokenBrice) qui a configuré le GitBook et aux deux scribes de la gouvernance [Disiaque](https://twitter.com/disiaque\_eth) et [Charles53300](https://twitter.com/C53300). Tous les membres DeFi France formalisant une proposition peuvent également y avoir un accès en écriture.
 
