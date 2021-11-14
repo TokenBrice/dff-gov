@@ -1,10 +1,8 @@
 ---
-description: >-
-  Compte rendu de la gouvernance participative de la communauté DeFi France. Un
-  site Web en cours de développement !
+description: Compte rendu de la gouvernance participative de la communauté DeFi France
 ---
 
-# #5 - Un site Web en cours de développement !
+# #5 - Un site Web en cours de développement
 
 Compte rendu de la gouvernance participative de la communauté DeFi France. Un site Web en cours de développement !
 
@@ -72,16 +70,6 @@ Ces deux dernières semaines n’ont pas vu de propositions de vote émerger dan
 
 Si vous n’êtes pas encore membre, il n’est jamais trop tard pour nous rejoindre : retrouvez le [**Discord DeFi France ici**](https://discord.gg/3bWZcK2) !
 
-Information
-
 _Compte rendu écrit par _[_Disiaque_](https://twitter.com/disiaque\_crypto)_ & revu par Charles : le binôme de scribes de DeFi France._
 
 _🙏 Un grand merci à eux deux pour leurs contributions !_
-
-updatedupdated2021-10-042021-10-04
-
-[54be8b3](https://github.com/TokenBrice/blog/commit/54be8b330118a5aac0a4fd5ed752ff3ff720d6df)
-
-Art Luchadores NFT + categories update
-
-DeFi France Discord Contributions Communauté

@@ -1,10 +1,8 @@
 ---
-description: Compte rendu de la gouvernance participative de la communauté DeFi France.
+description: Compte rendu de la gouvernance participative de la communauté DeFi France
 ---
 
 # #11 - Une orientation générale pour DeFi France
-
-
 
 Ces dernières semaines ont été l'occasion de nombreux débats dans l'Agora. Parfois houleux, toujours enrichissants, la communauté DeFi France ne cesse de grandir pour plus de transparence ! Au menu de ce Fil de la gouvernance :
 
@@ -68,3 +66,5 @@ Une seule proposition votée pour ces dernières semaines :
 La gouvernance partagée de DeFi France se réalise quotidiennement dans 🏛️l’Agora : à vos propositions ! Si vous n’êtes pas encore membre de DeFi France, il n’est jamais trop tard pour nous rejoindre : retrouvez le Discord ici !
 
 Compte rendu écrit par [Disiaque](https://twitter.com/disiaque\_eth) & revu par [Charles53300](https://twitter.com/C53300) : le binôme de scribes de DeFi France.
+
+_🙏 Un grand merci à eux deux pour leurs contributions !_

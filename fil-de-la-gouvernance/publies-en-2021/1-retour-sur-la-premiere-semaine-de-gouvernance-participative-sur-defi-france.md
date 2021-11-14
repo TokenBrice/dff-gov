@@ -1,7 +1,5 @@
 ---
-description: >-
-  La communauté DeFi France s’ouvre et devient encore plus horizontale : c’est à
-  vous de jouer désormais !
+description: Compte rendu de la gouvernance participative de la communauté DeFi France
 ---
 
 # #1 - Retour sur la première semaine de gouvernance participative sur DeFi France
@@ -98,10 +96,4 @@ On réfléchit également à un système de notifications personnalisées afin d
 
 Si vous n’y êtes pas encore, il n’est jamais trop tard pour bien faire ! Rejoignez le [**Discord DeFi France ici**](https://discord.gg/3bWZcK2).
 
-updatedupdated2021-10-042021-10-04
-
-[54be8b3](https://github.com/TokenBrice/blog/commit/54be8b330118a5aac0a4fd5ed752ff3ff720d6df)
-
-Art Luchadores NFT + categories update
-
-DeFi France Discord Contributions Communauté Gouvernance DFF
+Compte-rendu rédigé par [Tokenbrice](https://twitter.com/TokenBrice)

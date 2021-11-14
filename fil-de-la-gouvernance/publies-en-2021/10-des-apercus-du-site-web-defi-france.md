@@ -1,10 +1,8 @@
 ---
-description: >-
-  Compte rendu de la gouvernance participative de la communauté DeFi France. Des
-  aperçus du site web DeFi France !
+description: Compte rendu de la gouvernance participative de la communauté DeFi France
 ---
 
-# #10 - Des aperçus du site web DeFi France !
+# #10 - Des aperçus du site web DeFi France
 
 Compte rendu de la gouvernance participative de la communauté DeFi France. Des aperçus du site web DeFi France !
 
@@ -56,12 +54,6 @@ Le vote concernant la mise à jour des admins de DeFi France a suscité deux foi
 
 La gouvernance partagée de DeFi France se réalise quotidiennement dans 🏛️**l’Agora** : à vos propositions !✍ Si vous n’êtes pas encore membre de DeFi France, il n’est jamais trop tard pour nous rejoindre : retrouvez le Discord [ici](https://discord.gg/GuzNkFnZb4) !
 
-Information
+_Compte rendu écrit par _[_Disiaque_](https://twitter.com/disiaque\_crypto)_ & revu par Charles : le binôme de scribes de DeFi France._
 
-Compte rendu écrit par Disiaque & revu par Charles : le binôme de scribes de DeFi France.
-
-🙏 Un grand merci à eux deux pour leurs contributions !
-
-updatedupdated2021-10-172021-10-17
-
-DeFi France Discord Contributions Communauté
+_🙏 Un grand merci à eux deux pour leurs contributions !_

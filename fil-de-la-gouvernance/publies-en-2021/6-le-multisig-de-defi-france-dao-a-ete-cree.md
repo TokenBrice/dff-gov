@@ -1,10 +1,8 @@
 ---
-description: >-
-  Compte rendu de la gouvernance participative de la communauté DeFi France. Le
-  multisig de DeFi France DAO a été créé !
+description: Compte rendu de la gouvernance participative de la communauté DeFi France
 ---
 
-# #6 - Le multisig de DeFi France DAO a été créé !
+# #6 - Le multisig de DeFi France DAO a été créé
 
 Compte rendu de la gouvernance participative de la communauté DeFi France. Le multisig de DeFi France DAO a été créé !
 
@@ -50,16 +48,6 @@ Nombreux membres étaient présents à l’événement : ils ont utilisé le can
 
 Si vous n’êtes pas encore membre, il n’est jamais trop tard pour nous rejoindre : retrouvez le [Discord DeFi France ici](https://discord.com/invite/3bWZcK2) !
 
-Information
+_Compte rendu écrit par _[_Disiaque_](https://twitter.com/disiaque\_crypto)_ & revu par Charles : le binôme de scribes de DeFi France._
 
-Compte rendu écrit par Disiaque & revu par Charles : le binôme de scribes de DeFi France.
-
-🙏 Un grand merci à eux deux pour leurs contributions !
-
-updatedupdated2021-10-042021-10-04
-
-[54be8b3](https://github.com/TokenBrice/blog/commit/54be8b330118a5aac0a4fd5ed752ff3ff720d6df)
-
-Art Luchadores NFT + categories update
-
-DeFi France Discord Contributions Communauté
+_🙏 Un grand merci à eux deux pour leurs contributions !_

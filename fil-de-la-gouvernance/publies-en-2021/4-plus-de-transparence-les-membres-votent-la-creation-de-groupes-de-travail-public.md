@@ -1,11 +1,8 @@
 ---
-description: >-
-  Compte rendu de la quatrième semaine de gouvernance participative de la
-  communauté DeFi France. Plus de transparence : les membres votent la création
-  de groupes de travail public !
+description: Compte rendu de la gouvernance participative de la communauté DeFi France
 ---
 
-# #4 - Plus de transparence : les membres votent la création de groupes de travail public !
+# #4 - Plus de transparence : les membres votent la création de groupes de travail public
 
 Compte rendu de la quatrième semaine de gouvernance participative de la communauté DeFi France. Plus de transparence : les membres votent la création de groupes de travail public !
 
@@ -14,8 +11,6 @@ Cette semaine a été l’occasion de débats sur l’organisation de la communa
 * 💬 Création des groupes de travail ;
 * 📢 Perspectives pour la DAO ;
 * 🏛️ Votes dans l’Agora ;
-
-***
 
 ### Création des groupes de travail <a href="creation-des-groupes-de-travail" id="creation-des-groupes-de-travail"></a>
 
@@ -27,8 +22,6 @@ Suite à de nombreuses discussions concernant la transparence des salons privés
 * Lorsqu’un groupe de travail a besoin de nouveaux contributeurs, les porteurs de projets rédigent en priorité une offre dans le salon 💼**job**.
 
 Les groupes n’ont pas encore été rendus publics : ce sera fait lors de prochains votes, sûrement la semaine prochaine… On attend vos 📜**propositions** dans l'🏟**Agora** !
-
-***
 
 ### Perspectives pour la DAO <a href="perspectives-pour-la-dao" id="perspectives-pour-la-dao"></a>
 
@@ -49,8 +42,6 @@ La proposition de **création de multisig** votée la semaine dernière prend fo
 
 Meri à eux pour leur engagement ! Un vote sera là aussi nécessaire pour vérifier que cette liste soit bien consensuelle : on attend que le prix du gaz se stabilise un peu…
 
-***
-
 ### Votes dans l’Agora <a href="votes-dans-lagora" id="votes-dans-lagora"></a>
 
 Parmi les propositions soumises au vote, on compte :
@@ -63,18 +54,6 @@ C’est tout pour cette semaine, nous nous retrouvons le week-end prochain pour 
 
 Si vous n’êtes pas encore membre, il n’est jamais trop tard pour nous rejoindre : le [**Discord DeFi France est par ici**](https://discord.gg/3bWZcK2) et le **Guide du DeFian - ici**, pour tout comprendre au 🌾 blé.
 
-***
-
-Information
-
 _Compte rendu écrit par _[_Disiaque_](https://twitter.com/disiaque\_crypto)_ & revu par Charles : le binôme de scribes de DeFi France._
 
 _🙏 Un grand merci à eux deux pour leurs contributions !_
-
-updatedupdated2021-10-042021-10-04
-
-[54be8b3](https://github.com/TokenBrice/blog/commit/54be8b330118a5aac0a4fd5ed752ff3ff720d6df)
-
-Art Luchadores NFT + categories update
-
-DeFi France Discord Contributions Communauté
