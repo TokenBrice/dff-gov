@@ -31,6 +31,7 @@
 * [💬 En discussion](propositions-pdf/en-discussion/README.md)
   * [#17 - Gouvernance de DeFi France](propositions-pdf/en-discussion/17-gouvernance-de-defi-france.md)
   * [#18 - Renouvellement des gardiens du multisig DeFi France](propositions-pdf/en-discussion/18-renouvellement-des-gardiens-du-multisig-defi-france.md)
+  * [#19 - Création du groupe de travail « Dictionnaire de la DeFi »](propositions-pdf/en-discussion/19-creation-du-groupe-de-travail-dictionnaire-de-la-defi.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
   * [📜 #16 - Orientation générale de DeFi France](propositions-pdf/propositions-acceptees/16-orientation-generale-de-defi-france.md)
   * [📜 #15 - Création du salon « Poubelle »](propositions-pdf/propositions-acceptees/15-creation-du-salon-poubelle.md)
