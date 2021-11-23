@@ -2,7 +2,7 @@
 description: 💬 En discussion
 ---
 
-# #17 - Gouvernance de DeFi France
+# 📜 # - Gouvernance de DeFi France
 
 ## Proposition originale
 

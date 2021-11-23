@@ -49,7 +49,7 @@ Deux sujets principaux ont vu le jour au sein de la gouvernance.
 
 Une proposition nommée « Gouvernance de DeFi France » dont le but est de décrire le fonctionnement de DeFi France DAO à l'aide du système de blé. Ce dernier est actuellement en train d'être mis à jour par [NolanVanmoortel](https://twitter.com/NolanVanmoortel) afin de dépasser les limites imposées par Discord : il y aura donc sans doute des ajustements à faire dans le texte ! La proposition a aussi vocation à cadrer l'écriture et la formalisation de propositions dans la gouvernance. Vous pouvez retrouver la dernière version de travail ici :
 
-[https://app.gitbook.com/o/xw48F5cGGT7IWzZtlmke/s/DOD5QAt10OIRGZsWOK03/c/PbehwgyS9RhazLVHIYqI/propositions-pdf/en-discussion/17-gouvernance-de-defi-france](../../propositions-pdf/en-discussion/17-gouvernance-de-defi-france.md)
+[https://app.gitbook.com/o/xw48F5cGGT7IWzZtlmke/s/DOD5QAt10OIRGZsWOK03/c/PbehwgyS9RhazLVHIYqI/propositions-pdf/en-discussion/17-gouvernance-de-defi-france](../../propositions-pdf/en-discussion/gouvernance-de-defi-france.md)
 
 Une autre discussion a émergé sous l'impulsion de [Loïco](https://twitter.com/loico\_). Il propose de renouveler les gardiens du multisig tous les six mois suivant leur activité et implication sur le serveur. L'idée pose de nombreuses questions, notamment sur la manière dont les membres pouvaient voter avec le système de blé actuel. Sous la forme d'une liste ou non ? Si le débat vous intéresse, vous pouvez y prendre part dans le fil dédié de l'Agora. Le texte est disponible ici :
 
