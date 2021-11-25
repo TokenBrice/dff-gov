@@ -32,7 +32,7 @@
   * [📜 #17 - Création du groupe de travail « Dictionnaire de la DeFi »](propositions-pdf/en-discussion/17-creation-du-groupe-de-travail-dictionnaire-de-la-defi.md)
   * [📜 # - Gouvernance de DeFi France](propositions-pdf/en-discussion/gouvernance-de-defi-france.md)
   * [📜 # - Renouvellement des gardiens du multisig DeFi France](propositions-pdf/en-discussion/renouvellement-des-gardiens-du-multisig-defi-france.md)
-  * [📜 # - Organisation du salon « Stratégies » sous forme de fils](propositions-pdf/en-discussion/organisation-du-salon-strategies-sous-forme-de-fils.md)
+  * [📜 #18 - Organisation du salon « Stratégies » sous forme de fils](propositions-pdf/en-discussion/18-organisation-du-salon-strategies-sous-forme-de-fils.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
   * [📜 #16 - Orientation générale de DeFi France](propositions-pdf/propositions-acceptees/16-orientation-generale-de-defi-france.md)
   * [📜 #15 - Création du salon « Poubelle »](propositions-pdf/propositions-acceptees/15-creation-du-salon-poubelle.md)
