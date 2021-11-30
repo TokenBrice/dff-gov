@@ -28,7 +28,7 @@ Un message d'alerte de la part de Demeter s'affichera à la demande du rôle : �
 
 Réagissez avec un nouveau emoji « poubelle » sur un message que vous considérez comme indésirable, insultant, spam et/ou une publicité dissimulée.&#x20;
 
-Le bot Demeter placera ce message dans le salon « poubelle » lorsque **2 % du taux de blé **sera atteints au fur et à mesure que les membres cliquent sur l’emoji poubelle. Ce taux de base est le même que pour la fonction « déplacement de messages hors sujets ».&#x20;
+Le bot Demeter placera ce message dans le salon « poubelle » lorsque **2 % du taux de blé** sera atteints au fur et à mesure que les membres cliquent sur l’emoji poubelle. Ce taux de base est le même que pour la fonction « déplacement de messages hors sujets ».&#x20;
 
 Si des abus sont constatés, les administrateurs techniques du serveur pourront augmenter progressivement ce taux, sans besoin de vote dans l'Agora, jusqu'à un palier de 10% de la façon suivante :
 

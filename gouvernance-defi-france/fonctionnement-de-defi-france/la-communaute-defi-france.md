@@ -16,7 +16,7 @@ Depuis sa création, DeFi France a pour ambition de rendre la finance décentral
 
 {% embed url="https://discord.com/invite/3bWZcK2" %}
 
-Différentes initiatives pour proposer **des contenus de qualité en français sur le sujet, **tels que :&#x20;
+Différentes initiatives pour proposer **des contenus de qualité en français sur le sujet,** tels que :&#x20;
 
 * [BanklessFR](https://banklessfr.substack.com),&#x20;
 * [TheDailyGweiFR](https://thedailygweifr.substack.com),&#x20;
@@ -27,4 +27,4 @@ Avec la communauté DeFi France nous avons mis en place un **système unique sur
 
 Les mécanismes du système DFF v2 sont simples mais permettent **le contrôle direct par la communauté** à plusieurs niveaux : propositions, curation des messages ou même les sanctions potentielles. Ce système est implémenté directement sur le Discord, tous les membres peuvent y interagir avec `@Déméter` notre gentille déesse-bot reine du 🌾 blé.
 
-On vous propose donc un guide clair pour en comprendre ses enjeux et son fonctionnement. On y a ajouté autant que possible des **illustrations **pour simplifier le tout.
+On vous propose donc un guide clair pour en comprendre ses enjeux et son fonctionnement. On y a ajouté autant que possible des **illustrations** pour simplifier le tout.

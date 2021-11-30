@@ -1,4 +1,8 @@
-# 📜 # - Organisation du salon « Stratégies » sous forme de fils
+---
+description: Proposition en cours d'implémentation 🙌
+---
+
+# 📜 #18 - Organisation du salon « Stratégies » sous forme de fils
 
 ## **Proposition originale**
 

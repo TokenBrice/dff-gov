@@ -1,3 +1,7 @@
+---
+description: Proposition en cours d'implémentation 🙌
+---
+
 # 📜 #17 - Création du groupe de travail « Dictionnaire de la DeFi »
 
 ## Proposition originale
