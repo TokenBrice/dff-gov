@@ -23,6 +23,6 @@ Néanmoins, d'autres tâches nécessitent que des membres se dédient à celle-c
 
 12 personnes bénéficiant précédemment du rôle d'administrateur technique ont perdu leur accès avec l'implémentation de la proposition 14.
 
-{% content-ref url="../propositions/propositions-acceptees/14-mise-a-jour-et-clarification-du-role-df-admin.md" %}
-[14-mise-a-jour-et-clarification-du-role-df-admin.md](../propositions/propositions-acceptees/14-mise-a-jour-et-clarification-du-role-df-admin.md)
+{% content-ref url="../propositions-pdf/propositions-acceptees/14-mise-a-jour-et-clarification-du-role-df-admin.md" %}
+[14-mise-a-jour-et-clarification-du-role-df-admin.md](../propositions-pdf/propositions-acceptees/14-mise-a-jour-et-clarification-du-role-df-admin.md)
 {% endcontent-ref %}
