@@ -29,6 +29,7 @@
 ## 📜 Propositions (PDF)
 
 * [💬 En discussion](propositions-pdf/en-discussion/README.md)
+  * [📜 #19 - Création du canal textuel «💬-banklessfr-readers» dédié aux interractions avec le média](propositions-pdf/en-discussion/19-creation-du-canal-textuel-banklessfr-readers-dedie-aux-interractions-avec-le-media.md)
   * [📜 # - Gouvernance de DeFi France](propositions-pdf/en-discussion/gouvernance-de-defi-france.md)
   * [📜 # - Renouvellement des gardiens du multisig DeFi France](propositions-pdf/en-discussion/renouvellement-des-gardiens-du-multisig-defi-france.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
