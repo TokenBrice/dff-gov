@@ -8,7 +8,7 @@ coverY: 0
 
 # 💬 En discussion
 
-## #18 - Création du canal textuel "💬-banklessfr-readers" dédié aux interractions avec le média
+## #19 - Création du canal textuel "💬-banklessfr-readers" dédié aux interractions avec le média
 
 ## Proposition originale
 
@@ -29,7 +29,7 @@ Ce canal permettra à la fois de renforcer les liens entre BanklessFR et DeFi Fr
 ### Implémentation
 
 * Créer le rôle « Responsable éditorial de BanklessFR » et l'attribuer à @Otherbright
-* Créer le canal textuel « 💬-banklessfr-readers » dans la catégorie « DISCUSSIONS »
+* Créer le canal textuel « 💬-banklessfr-readers » dans la catégorie « Projet public »
 
 ### Rédacteur
 
