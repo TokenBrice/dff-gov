@@ -23,7 +23,7 @@ Ce canal permettra à la fois de renforcer les liens entre BanklessFR et DeFi Fr
 ### Implémentation
 
 * Créer le rôle « Responsable éditorial de BanklessFR » et l'attribuer à @Otherbright
-* Créer le canal textuel « 💬-banklessfr-readers » dans la catégorie « DISCUSSION »
+* Créer le canal textuel « 💬-banklessfr-readers » dans la catégorie « Projets publics »
 
 ### Rédacteur
 
