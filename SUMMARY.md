@@ -3,13 +3,13 @@
 ## 🏟 Gouvernance DeFi France
 
 * [👋 Bienvenue](README.md)
+* [🇫🇷 La communauté DeFi France](gouvernance-defi-france/la-communaute-defi-france.md)
 * [🍕 Fonctionnement de DeFi France](gouvernance-defi-france/fonctionnement-de-defi-france/README.md)
-  * [🇫🇷 La communauté DeFi France](gouvernance-defi-france/fonctionnement-de-defi-france/la-communaute-defi-france.md)
   * [🐣 Devenir membre](gouvernance-defi-france/fonctionnement-de-defi-france/devenir-membre.md)
   * [🌾 Le système de blé](gouvernance-defi-france/fonctionnement-de-defi-france/le-systeme-de-ble.md)
   * [🏗 Curation & modération communautaire](gouvernance-defi-france/fonctionnement-de-defi-france/curation-and-moderation-communautaire.md)
   * [🗳 Gouvernance communautaire](gouvernance-defi-france/fonctionnement-de-defi-france/gouvernance-communautaire.md)
-  * [ℹ Information et liens](gouvernance-defi-france/fonctionnement-de-defi-france/information-et-liens.md)
+* [ℹ Information et liens](gouvernance-defi-france/information-et-liens.md)
 
 ## 📰 Fil de la gouvernance
 
