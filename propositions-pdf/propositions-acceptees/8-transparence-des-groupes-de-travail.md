@@ -1,5 +1,5 @@
 ---
-description: Proposition en cours d'implémentation 🙌
+description: Proposition implémentée ✅
 ---
 
 # 📜 #8 - Transparence des groupes de travail

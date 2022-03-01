@@ -1,5 +1,5 @@
 ---
-description: 💬 En discussion
+description: Proposition implémentée le 18 février 2022 ✅
 ---
 
 # 📜 #19 - Création du canal textuel «💬-banklessfr-readers» dédié aux interractions avec le média

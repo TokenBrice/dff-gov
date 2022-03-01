@@ -1,5 +1,5 @@
 ---
-description: Proposition en cours d'implémentation 🙌
+description: Proposition implémentée ✅
 ---
 
 # 📜 #17 - Création du groupe de travail « Dictionnaire de la DeFi »

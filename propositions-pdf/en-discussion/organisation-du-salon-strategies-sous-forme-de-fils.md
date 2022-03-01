@@ -1,3 +1,7 @@
+---
+description: Proposition implémentée le ✅
+---
+
 # 📜 #18 - Organisation du salon « Stratégies » sous forme de fils
 
 ## **Proposition originale**
