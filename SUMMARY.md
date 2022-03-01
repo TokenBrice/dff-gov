@@ -28,11 +28,9 @@
 
 ## 📜 Propositions
 
-* [💬 En discussion](propositions/en-discussion/README.md)
-  * [📜 #19 - Création du canal textuel «💬-banklessfr-readers» dédié aux interractions avec le média](propositions/en-discussion/19-creation-du-canal-textuel-banklessfr-readers-dedie-aux-interractions-avec-le-media.md)
-  * [📜 # - Gouvernance de DeFi France](propositions-pdf/en-discussion/gouvernance-de-defi-france.md)
-  * [📜 # - Renouvellement des gardiens du multisig DeFi France](propositions-pdf/en-discussion/renouvellement-des-gardiens-du-multisig-defi-france.md)
+* [💬 En discussion](propositions/en-discussion.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
+  * [📜 #19 - Création du canal textuel «💬-banklessfr-readers» dédié aux interractions avec le média](propositions/propositions-acceptees/19-creation-du-canal-textuel-banklessfr-readers-dedie-aux-interractions-avec-le-media.md)
   * [📜 #18 - Organisation du salon « Stratégies » sous forme de fils](propositions-pdf/en-discussion/organisation-du-salon-strategies-sous-forme-de-fils.md)
   * [📜 #17 - Création du groupe de travail « Dictionnaire de la DeFi »](propositions/propositions-acceptees/17-creation-du-groupe-de-travail-dictionnaire-de-la-defi.md)
   * [📜 #16 - Orientation générale de DeFi France](propositions-pdf/propositions-acceptees/16-orientation-generale-de-defi-france.md)
@@ -53,6 +51,9 @@
 * [❌ Propositions refusées](propositions-pdf/propositions-refusees/README.md)
   * [📜 #12- Création du salon « Projet prometteur »](propositions-pdf/propositions-refusees/12-creation-du-salon-projet-prometteur.md)
   * [📜 #6 - Suppression du salon « Admin-blabla »](propositions-pdf/propositions-refusees/6-suppression-du-salon-admin-blabla.md)
+* [💾 Archives](propositions/archives/README.md)
+  * [📜 # - Gouvernance de DeFi France](propositions/archives/gouvernance-de-defi-france.md)
+  * [📜 # - Renouvellement des gardiens du multisig DeFi France](propositions/archives/renouvellement-des-gardiens-du-multisig-defi-france.md)
 
 ## 🙋 Rôles
 
