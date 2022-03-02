@@ -2,11 +2,11 @@
 description: Proposition implémentée ✅
 ---
 
-# 📜 #7 - Mise à jour du salon « Admin blabla »
+# 📜 #6 - Mise à jour du salon « Admin blabla »
 
 | ID                | PROPOSITION                           | CLÔTURE    | VOTE POUR | VOTRE CONTRE | STATUT   |
 | ----------------- | ------------------------------------- | ---------- | --------- | ------------ | -------- |
-| **Proposition 7** | Mise à jour du salon « Admin blabla » | 13/05/2021 | 69 (58 %) | 9 (22 %)     | Acceptée |
+| **Proposition 6** | Mise à jour du salon « Admin blabla » | 13/05/2021 | 69 (58 %) | 9 (22 %)     | Acceptée |
 
 ## Proposition originale
 
