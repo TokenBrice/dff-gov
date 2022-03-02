@@ -13,6 +13,7 @@
 
 ## 📰 Fil de la gouvernance
 
+* [#12 - Reprise des activités de DeFi France](fil-de-la-gouvernance/12-reprise-des-activites-de-defi-france.md)
 * [⏳ Publiés en 2021](fil-de-la-gouvernance/publies-en-2021/README.md)
   * [#11 - Une orientation générale pour DeFi France](fil-de-la-gouvernance/publies-en-2021/11-une-orientation-generale-pour-defi-france.md)
   * [#10 - Des aperçus du site web DeFi France](fil-de-la-gouvernance/publies-en-2021/10-des-apercus-du-site-web-defi-france.md)
