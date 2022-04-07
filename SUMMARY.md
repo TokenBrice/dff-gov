@@ -31,6 +31,7 @@
 
 * [💬 En discussion](propositions/en-discussion.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
+  * [📜 #20 - simplification du Captcha présenté aux nouveaux arrivants dans le salon 👋-bienvenue](propositions/propositions-acceptees/20-simplification-du-captcha-presente-aux-nouveaux-arrivants-dans-le-salon-bienvenue.md)
   * [📜 #19 - Création du canal textuel «💬-banklessfr-readers» dédié aux interractions avec le média](propositions/propositions-acceptees/19-creation-du-canal-textuel-banklessfr-readers-dedie-aux-interractions-avec-le-media.md)
   * [📜 #18 - Organisation du salon « Stratégies » sous forme de fils](propositions-pdf/en-discussion/organisation-du-salon-strategies-sous-forme-de-fils.md)
   * [📜 #17 - Création du groupe de travail « Dictionnaire de la DeFi »](propositions/propositions-acceptees/17-creation-du-groupe-de-travail-dictionnaire-de-la-defi.md)
