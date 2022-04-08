@@ -51,7 +51,7 @@
   * [📜 #2 - Création du « salon Débutant »](propositions-pdf/propositions-acceptees/2-creation-du-salon-debutant.md)
   * [📜 #1 - Création du salon « Proof of Humanity »](propositions-pdf/propositions-acceptees/1-creation-du-salon-proof-of-humanity.md)
 * [❌ Propositions refusées](propositions-pdf/propositions-refusees/README.md)
-  * [📜 #12- Création du salon « Projet prometteur »](propositions-pdf/propositions-refusees/12-creation-du-salon-projet-prometteur.md)
+  * [📜 #12 - Création du salon « Projet prometteur »](propositions-pdf/propositions-refusees/12-creation-du-salon-projet-prometteur.md)
   * [📜 #6 - Suppression du salon « Admin-blabla »](propositions-pdf/propositions-refusees/6-suppression-du-salon-admin-blabla.md)
 * [💾 Archives](propositions/archives/README.md)
   * [📜 # - Gouvernance de DeFi France](propositions/archives/gouvernance-de-defi-france.md)
