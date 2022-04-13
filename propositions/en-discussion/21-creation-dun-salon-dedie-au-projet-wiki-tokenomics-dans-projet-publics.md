@@ -14,7 +14,7 @@ Ce projet collaboratif serait porté sous l'égide de DeFi France.
 
 L'ensemble du processus pour faire naître ce projet collaboratif est à discuter entre intéressé·es.
 
-Il est donc proposé de créer, au sein du Discord DeFi France, un salon dédié pour rassembler les contributeurs potentiels pour qu'ils puissent s'organiser.
+Il est donc proposé de créer, au sein du Discord DeFi France, un salon dédié pour rassembler les discussions des personnes souhaitant contribuer pour qu'elles puissent s'organiser.
 
 ### Implémentation
 
