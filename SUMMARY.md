@@ -29,10 +29,9 @@
 
 ## 📜 Propositions
 
-* [💬 En discussion](propositions/en-discussion/README.md)
-  * [Page 1](propositions/en-discussion/page-1.md)
-  * [📜 #21 - Création d'un salon dédié au projet "Wiki Tokenomics" dans Projet Publics](propositions/en-discussion/21-creation-dun-salon-dedie-au-projet-wiki-tokenomics-dans-projet-publics.md)
+* [💬 En discussion](propositions/en-discussion.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
+  * [📜 #21 - Création d'un salon dédié au projet "Wiki Tokenomics" dans Projet Publics](propositions/propositions-acceptees/21-creation-dun-salon-dedie-au-projet-wiki-tokenomics-dans-projet-publics.md)
   * [📜 #20 - simplification du Captcha présenté aux nouveaux arrivants dans le salon 👋-bienvenue](propositions/propositions-acceptees/20-simplification-du-captcha-presente-aux-nouveaux-arrivants-dans-le-salon-bienvenue.md)
   * [📜 #19 - Création du canal textuel «💬-banklessfr-readers» dédié aux interractions avec le média](propositions/propositions-acceptees/19-creation-du-canal-textuel-banklessfr-readers-dedie-aux-interractions-avec-le-media.md)
   * [📜 #18 - Organisation du salon « Stratégies » sous forme de fils](propositions-pdf/en-discussion/organisation-du-salon-strategies-sous-forme-de-fils.md)

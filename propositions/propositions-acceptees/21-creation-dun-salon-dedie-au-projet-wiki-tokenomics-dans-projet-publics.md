@@ -1,3 +1,7 @@
+---
+description: Proposition implémentée le 19 avril 2022 ✅
+---
+
 # 📜 #21 - Création d'un salon dédié au projet "Wiki Tokenomics" dans Projet Publics
 
 ### Contexte
