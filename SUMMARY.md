@@ -30,6 +30,7 @@
 ## 📜 Propositions
 
 * [💬 En discussion](propositions/en-discussion/README.md)
+  * [Page 1](propositions/en-discussion/page-1.md)
   * [📜 #21 - Création d'un salon dédié au projet "Wiki Tokenomics" dans Projet Publics](propositions/en-discussion/21-creation-dun-salon-dedie-au-projet-wiki-tokenomics-dans-projet-publics.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
   * [📜 #20 - simplification du Captcha présenté aux nouveaux arrivants dans le salon 👋-bienvenue](propositions/propositions-acceptees/20-simplification-du-captcha-presente-aux-nouveaux-arrivants-dans-le-salon-bienvenue.md)
@@ -60,8 +61,4 @@
 
 ## 🙋 Rôles
 
-* [🧭 Aperçu des responsabilités](group-1/page-3.md)
-  * [⚙ Administrateur technique](roles/apercu-des-responsabilites/administrateur-technique.md)
-  * [💸 Gardien](roles/apercu-des-responsabilites/gardien.md)
-  * [🖋 Scribe](roles/apercu-des-responsabilites/scribe.md)
-  * [🎖 Membre d'honneur](roles/apercu-des-responsabilites/membre-dhonneur.md)
+* [🧭 Aperçu des responsabilités](roles/apercu-des-responsabilites.md)
