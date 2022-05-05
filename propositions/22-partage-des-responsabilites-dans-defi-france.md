@@ -32,11 +32,11 @@ Les mandats pour ces rôles sont une durée de quatre mois après la fin du pré
 
 Pour ce nouveau trimestre, il est proposé la liste des candidats suivants :
 
-| RÔLE    | LISTE |
-| ------- | ----- |
-| Admin   | 1.    |
-| Gardien | 1.    |
-| Scribe  | 1.    |
+| RÔLE    | LISTE                          |
+| ------- | ------------------------------ |
+| Admin   | <ol><li>ArthurSW</li></ol>     |
+| Gardien | <ol><li>Charles53300</li></ol> |
+| Scribe  | <ol><li>Disiaque</li></ol>     |
 
 ### Implémentation
 
