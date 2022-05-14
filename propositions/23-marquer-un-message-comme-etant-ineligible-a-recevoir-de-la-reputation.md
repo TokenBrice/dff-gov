@@ -18,7 +18,7 @@ Rédiger un message en guise de rapide sondage à base de :thumbsup: et :thumbsd
 
 ### Objet
 
-Permettre de marquer un message comme étant inéligible à recevoir de la réputation. Si la communauté ou le propriétaire du message réagit avec l'emoji 🙈, alors on ne prend pas en compte ce message lors du calcul de la réputation. Pour que la communauté puisse activer cette fonctionnalité, la somme des points de réputations de chacun des membres ayant réagis avec l'emoji 🙈 doit être >= à 300. Cette valeur est configurable par les membres disposant du rôle "🛠 Team Déméter".
+Permettre de marquer un message comme étant inéligible à recevoir de la réputation. Si la communauté ou le propriétaire du message réagit avec l'emoji 🙈, alors on ne prend pas en compte ce message lors du calcul de la réputation. Pour que la communauté puisse activer cette fonctionnalité, la somme des points de réputations de chacun des membres ayant réagis avec l'emoji 🙈 doit être >= à 600. Cette valeur est configurable par les membres disposant du rôle "🛠 Team Déméter".
 
 ### Implémentation
 
