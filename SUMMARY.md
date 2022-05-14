@@ -30,6 +30,7 @@
 ## 📜 Propositions
 
 * [💬 22 - Partage des responsabilités dans DeFi France](propositions/22-partage-des-responsabilites-dans-defi-france.md)
+* [💬 23 - Marquer un message comme étant inéligible à recevoir de la réputation](propositions/23-marquer-un-message-comme-etant-ineligible-a-recevoir-de-la-reputation.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
   * [📜 #21 - Création d'un salon dédié au projet "Wiki Tokenomics" dans Projet Publics](propositions/propositions-acceptees/21-creation-dun-salon-dedie-au-projet-wiki-tokenomics-dans-projet-publics.md)
   * [📜 #20 - simplification du Captcha présenté aux nouveaux arrivants dans le salon 👋-bienvenue](propositions/propositions-acceptees/20-simplification-du-captcha-presente-aux-nouveaux-arrivants-dans-le-salon-bienvenue.md)
