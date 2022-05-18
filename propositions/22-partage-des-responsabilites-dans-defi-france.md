@@ -24,19 +24,19 @@ Afin d'organiser le travail courant de DeFi France, on établit plusieurs rôles
 | Gardien | Les gardiens sont les signataires du multisig DeFi France. Ils s'assurent également que les transactions effectuées soient en adéquation avec les décisions prises dans l'Agora                                                                         | 8     |
 | Scribe  | Les scribes ont vocation à animer la gouvernance à travers plusieurs missions : facilitateur pour l'écriture des propositions ; archivage des propositions votées ; écriture de la newsletter "Le fil de la gouvernance".                               | 2     |
 
-Les mandats pour ces rôles sont une durée de quatre mois après la fin du précédent vote. Tout membre actif du serveur Discord peut se présenter à n'importe quel rôle :
+Les mandats pour ces rôles sont une durée de six mois après la fin du précédent vote. Tout membre actif du serveur Discord peut se présenter à n'importe quel rôle :
 
 * Les élection se font par liste établie après un consensus communautaire dans l'Agora.
 * Si le nombre de candidat est supérieur au nombre de sièges mis au vote pour un rôle, un sondage par emoji-réaction est effectué pour déterminer les listes.
-* Tout membre inactif, c'est-à-dire qui n'a pas participé aux activités de DeFi France depuis 1 mois est démis de ces fonctions et ne pourra se présenter au prochain mandat.
+* Tout membre inactif, c'est-à-dire qui ne participe plus aux activités de DeFi France, ne pourra se présenter au prochain mandat.
 
-Pour ce nouveau trimestre, il est proposé la liste des candidats suivants :
+Pour ce nouveau semestre, il est proposé la liste des candidats suivants :
 
-| RÔLE    | LISTE                          |
-| ------- | ------------------------------ |
-| Admin   | <ol><li>ArthurSW</li></ol>     |
-| Gardien | <ol><li>Charles53300</li></ol> |
-| Scribe  | <ol><li>Disiaque</li></ol>     |
+| RÔLE    | LISTE                                                                                                                                          |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Admin   | <ol><li>ArthurSW</li><li>Nicorama</li><li>OoTsun</li></ol>                                                                                     |
+| Gardien | <ol><li>Charles53300</li><li>Cyrille</li><li>JulienPerma</li><li>Sorag</li><li>Starny</li><li>StephaneSG</li><li>TokenBrice</li><li></li></ol> |
+| Scribe  | <ol><li>Disiaque</li><li>Genji</li></ol>                                                                                                       |
 
 ### Implémentation
 
