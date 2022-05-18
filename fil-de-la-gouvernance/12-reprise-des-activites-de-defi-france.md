@@ -1,5 +1,5 @@
 ---
-description: Compte rendu de la gouvernance participative de la communauté DeFi France
+description: "Compte rendu de la gouvernance de DeFi France\_—\_02 mars 2022"
 ---
 
 # #12 - Reprise des activités de DeFi France
