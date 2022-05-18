@@ -32,11 +32,11 @@ Les mandats pour ces rôles sont une durée de six mois après la fin du précé
 
 Pour ce nouveau semestre, il est proposé la liste des candidats suivants :
 
-| RÔLE    | LISTE                                                                                                                                          |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Admin   | <ol><li>ArthurSW</li><li>Nicorama</li><li>OoTsun</li></ol>                                                                                     |
-| Gardien | <ol><li>Charles53300</li><li>Cyrille</li><li>JulienPerma</li><li>Sorag</li><li>Starny</li><li>StephaneSG</li><li>TokenBrice</li><li></li></ol> |
-| Scribe  | <ol><li>Disiaque</li><li>Genji</li></ol>                                                                                                       |
+| RÔLE    | LISTE                                                                                                                                                |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Admin   | <ol><li>ArthurSW</li><li>Nicorama</li><li>OoTsun</li></ol>                                                                                           |
+| Gardien | <ol><li>Charles53300</li><li>Cyrille</li><li>Julienperma</li><li>Madmat</li><li>Sorag</li><li>Starny</li><li>StephaneSG</li><li>TokenBrice</li></ol> |
+| Scribe  | <ol><li>Disiaque</li><li>Genji</li></ol>                                                                                                             |
 
 ### Implémentation
 
