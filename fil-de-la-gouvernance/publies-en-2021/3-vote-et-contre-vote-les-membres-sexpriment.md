@@ -18,7 +18,7 @@ Au menu de ce fil de la gouvernance, vous pourrez lire :
 
 ***
 
-#### Organisation des salons <a href="organisation-des-salons" id="organisation-des-salons"></a>
+#### Organisation des salons <a href="#organisation-des-salons" id="organisation-des-salons"></a>
 
 La semaine a vu le lancement du salon 💾**Best Of** qui enregistre les messages les plus consultés. Pour proposer la sauvegarde, il suffit de cliquer sur l’émoji 💾 sous le message ; si les émojis atteignent 10 % du blé total, Démeter, notre chère déesse, se charge alors de le déplacer !
 
@@ -28,7 +28,7 @@ Enfin, la file d’attente POH a connu son apogée cette semaine avec le concour
 
 ***
 
-#### Perspectives pour la DAO <a href="perspectives-pour-la-dao" id="perspectives-pour-la-dao"></a>
+#### Perspectives pour la DAO <a href="#perspectives-pour-la-dao" id="perspectives-pour-la-dao"></a>
 
 Concernant la DAO, la semaine a débuté avec la mise à jour des récompenses en blé pour chacun des espaces de discussions. A ainsi été votée la suppresion des récompences pour le **salon privé des admins** après une proposition et une contre-proposition dans l’Agora.
 
@@ -52,9 +52,9 @@ La création de la DAO nécessite dans tous les cas du temps et il est prévu d�
 
 ***
 
-#### Un multisig pour la DAO ? <a href="un-multisig-pour-la-dao" id="un-multisig-pour-la-dao"></a>
+#### Un multisig pour la DAO ? <a href="#un-multisig-pour-la-dao" id="un-multisig-pour-la-dao"></a>
 
-Jon Otherbright a formalisé quant à lui une proposition d’un **airdrop rétroactif** du token BANK à la communauté DeFi France. La proposition est toujours en examen du côté de Bankless DAO, mais elle a suscité déjà un retour très positif parmi les Defians. Un second airdrop a aussi été évoqué par Antoine de chez [APWine](https://www.apwine.fi).
+Jon Otherbright a formalisé quant à lui une proposition d’un **airdrop rétroactif** du token BANK à la communauté DeFi France. La proposition est toujours en examen du côté de Bankless DAO, mais elle a suscité déjà un retour très positif parmi les Defians. Un second airdrop a aussi été évoqué par Antoine de chez [APWine](https://www.apwine.fi/).
 
 Une proposition a ensuite été votée afin que la DAO soit en capacité d’accueillir ces fonds. Il a été décidé de **créer un multisig** composé de dix membres DeFi France dont cinq admins et cinq membres.
 
@@ -62,7 +62,7 @@ Pour finir, une discussion est toujours en cours concernant la **transparence de
 
 ***
 
-#### 🗳 Résumés des votes dans l’Agora <a href="resumes-des-votes-dans-lagora" id="resumes-des-votes-dans-lagora"></a>
+#### 🗳 Résumés des votes dans l’Agora <a href="#resumes-des-votes-dans-lagora" id="resumes-des-votes-dans-lagora"></a>
 
 Parmi les propositions soumises au vote, on compte :
 
@@ -76,6 +76,6 @@ C’est tout pour cette semaine, nous nous retrouvons le week-end prochain pour 
 
 Si vous n’êtes pas encore membre, il n’est jamais trop tard pour nous rejoindre : retrouvez le [**Discord DeFi France ici**](https://discord.gg/3bWZcK2) !
 
-_Compte rendu écrit par _[_Disiaque_](https://twitter.com/disiaque\_crypto)_ & revu par Charles : le binôme de scribes de DeFi France._
+_Compte rendu écrit par_ [_Disiaque_](https://twitter.com/disiaque\_crypto) _& revu par Charles : le binôme de scribes de DeFi France._
 
 _🙏 Un grand merci à eux deux pour leurs contributions !_

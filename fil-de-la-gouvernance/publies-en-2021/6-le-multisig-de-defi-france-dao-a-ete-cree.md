@@ -11,7 +11,7 @@ Alors que les vacances d’été se font doucement sentir, les projets avancent 
 * 📢 Création du multisig ;
 * 🏛️ Votes dans l’Agora ;
 
-### 📢 Création du multisig <a href="creation-du-multisig" id="creation-du-multisig"></a>
+### 📢 Création du multisig <a href="#creation-du-multisig" id="creation-du-multisig"></a>
 
 La proposition de création de multisig votée en mai dernier a vu le jour : dix membres se sont portés volontaires pour sécuriser le compte de DeFi France DAO !
 
@@ -34,9 +34,9 @@ Sur ces dix signataires, un minimum de six est désormais requis pour passer une
 
 L’adresse publique du wallet est donc **0xe599E99Af02FF2A5A0B12986Ccd36456B074A326** et pourra servir de socle pour imaginer de nouveaux projets communs, voire pour incentiver les membres qui ont œuvré pour la DAO.
 
-Il se raconte d’ailleurs que le protocole APWine se laisserait tenter à offrir un airdrop à DeFi France… Dans l’attente d’en savoir plus, vous pouvez consulter leur présentation sur [leur site officiel](https://www.apwine.fi).
+Il se raconte d’ailleurs que le protocole APWine se laisserait tenter à offrir un airdrop à DeFi France… Dans l’attente d’en savoir plus, vous pouvez consulter leur présentation sur [leur site officiel](https://www.apwine.fi/).
 
-### 🏛️ Votes dans l’Agora <a href="votes-dans-lagora" id="votes-dans-lagora"></a>
+### 🏛️ Votes dans l’Agora <a href="#votes-dans-lagora" id="votes-dans-lagora"></a>
 
 Cette semaine a aussi vu l’adoption de la dixième proposition de la DAO : elle portait sur la création d’un salon dédié aux discussions autour de l’ETHCC.
 
@@ -48,6 +48,6 @@ Nombreux membres étaient présents à l’événement : ils ont utilisé le can
 
 Si vous n’êtes pas encore membre, il n’est jamais trop tard pour nous rejoindre : retrouvez le [Discord DeFi France ici](https://discord.com/invite/3bWZcK2) !
 
-_Compte rendu écrit par _[_Disiaque_](https://twitter.com/disiaque\_crypto)_ & revu par Charles : le binôme de scribes de DeFi France._
+_Compte rendu écrit par_ [_Disiaque_](https://twitter.com/disiaque\_crypto) _& revu par Charles : le binôme de scribes de DeFi France._
 
 _🙏 Un grand merci à eux deux pour leurs contributions !_

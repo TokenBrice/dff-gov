@@ -12,7 +12,7 @@ La communauté DeFi France se rassemble et continue de grandir sur le serveur Di
 * 📢 Discussions sur la gouvernance communautaire ;
 * 🏛️ Votes dans l’Agora ;
 
-### 🌐 Des nouvelles du site web DeFi France <a href="des-nouvelles-du-site-web-defi-france" id="des-nouvelles-du-site-web-defi-france"></a>
+### 🌐 Des nouvelles du site web DeFi France <a href="#des-nouvelles-du-site-web-defi-france" id="des-nouvelles-du-site-web-defi-france"></a>
 
 Comme annoncé dans [Le Fil de la gouvernance #5](https://tokenbrice.xyz/fr/fil-gov-defi-france-5/), un groupe de travail s’est mis en place pour développer le site web DeFi France. L’idée était de présenter les projets de la communauté, mais aussi de rassembler les contenus créés par les membres : guide d’accès à la DeFi, synthèse de la gouvernance ou encore des vidéos tutoriels !
 
@@ -28,9 +28,9 @@ Le site est toujours en préparation et le travail a désormais bien avancé, en
 
 Concernant les difficultés rencontrées, le logo actuel de DeFi France n’a pas été pensé pour un mode sombre ! Il leur faut ainsi contacter le graphiste qui en est l’auteur pour obtenir une version adaptée, vraisemblablement en noir et blanc.
 
-> Vous voulez aider au projet ? L’équipe recherche un dev back-end capable de configurer un site sous [Jekyll](https://jekyllrb.com) : une offre sera publiée prochainement dans le salon 💼**Job** du discord !
+> Vous voulez aider au projet ? L’équipe recherche un dev back-end capable de configurer un site sous [Jekyll](https://jekyllrb.com/) : une offre sera publiée prochainement dans le salon 💼**Job** du discord !
 
-### 📢 Discussions sur la gouvernance communautaire <a href="discussions-sur-la-gouvernance-communautaire" id="discussions-sur-la-gouvernance-communautaire"></a>
+### 📢 Discussions sur la gouvernance communautaire <a href="#discussions-sur-la-gouvernance-communautaire" id="discussions-sur-la-gouvernance-communautaire"></a>
 
 D’importants changements ont eu lieu dans la gouvernance communautaire ces dernières semaines. Les échanges ont porté sur le rôle des admins DeFi France et la nécessité de les renouveler pour dynamiser la communauté.
 
@@ -44,7 +44,7 @@ L’Agora a par la suite ouvert la discussion sur l’élection de nouveaux rôl
 
 Plusieurs documents sont ainsi en cours de rédaction par la communauté sur l’orientation générale de DeFi France ou encore sa gouvernance. Les débats sont toujours en cours, n’hésitez pas à y participer !
 
-### 🏛️ Votes dans l’Agora <a href="votes-dans-lagora" id="votes-dans-lagora"></a>
+### 🏛️ Votes dans l’Agora <a href="#votes-dans-lagora" id="votes-dans-lagora"></a>
 
 Le vote concernant la mise à jour des admins de DeFi France a suscité deux fois plus de participants que l’ordinaire, preuve de son importance !
 
@@ -54,6 +54,6 @@ Le vote concernant la mise à jour des admins de DeFi France a suscité deux foi
 
 La gouvernance partagée de DeFi France se réalise quotidiennement dans 🏛️**l’Agora** : à vos propositions !✍ Si vous n’êtes pas encore membre de DeFi France, il n’est jamais trop tard pour nous rejoindre : retrouvez le Discord [ici](https://discord.gg/GuzNkFnZb4) !
 
-_Compte rendu écrit par _[_Disiaque_](https://twitter.com/disiaque\_crypto)_ & revu par Charles : le binôme de scribes de DeFi France._
+_Compte rendu écrit par_ [_Disiaque_](https://twitter.com/disiaque\_crypto) _& revu par Charles : le binôme de scribes de DeFi France._
 
 _🙏 Un grand merci à eux deux pour leurs contributions !_

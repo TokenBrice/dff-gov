@@ -11,11 +11,11 @@ Alors que la rentrée arrive et que se prépare un nouveau _DeFi summer_, les me
 * 📢 Premier airdrop communautaire ;
 * 🏛️ Vote dans l’Agora ;
 
-### 📢 Premier airdrop communautaire <a href="premier-airdrop-communautaire" id="premier-airdrop-communautaire"></a>
+### 📢 Premier airdrop communautaire <a href="#premier-airdrop-communautaire" id="premier-airdrop-communautaire"></a>
 
 Sur DeFi France, la gouvernance communautaire est organisée grâce au 🌾 blé qui permet de reconnaître les contributions les plus utiles des membres ! Ce système ingénieux intégré directement dans le Discord a de nombreuses utilités.
 
-Le 18 août [TokenBrice](https://twitter.com/TokenBrice) a ainsi proposé un airdrop de NFT pour le top 25 des holders de blé. Les NFT retenus sont les lutteurs du projet [Luchadores](https://luchadores.io) qui ont été récemment mintés dans leur intégralité (10000 exemplaires !).
+Le 18 août [TokenBrice](https://twitter.com/TokenBrice) a ainsi proposé un airdrop de NFT pour le top 25 des holders de blé. Les NFT retenus sont les lutteurs du projet [Luchadores](https://luchadores.io/) qui ont été récemment mintés dans leur intégralité (10000 exemplaires !).
 
 Cet airdrop a ainsi vocation à récompenser les membres les plus actifs de la communauté, mais aussi à mieux faire connaître la génération et le stockage de NFT directement on-chain. Sur ces enjeux un article avait déjà été écrit par NFT Mania : [Mon NFT m’appartient-il vraiment ? (½) Propriété réelle, stockage, décentralisation](https://nft-mania.io/2021/05/mon-nft-mappartient-il-vraiment-%C2%BD-propriete-reelle-stockage-decentralisation/).
 
@@ -23,7 +23,7 @@ Cet airdrop a ainsi vocation à récompenser les membres les plus actifs de la c
 
 Si vous n’êtes pas encore familier avec le système de blé de DeFi France, vous pouvez également lire l’article qui détaille son fonctionnement : [Le guide du DeFian : prise en main des outils communautaires DeFi France](https://tokenbrice.xyz/fr/guide-defian/#incitation--les-bases-du--bl%C3%A9). Merci à [TokenBrice](https://twitter.com/TokenBrice) pour cet airdrop très généreux ! 🙏
 
-### 🏛️ Vote dans l’Agora <a href="vote-dans-lagora" id="vote-dans-lagora"></a>
+### 🏛️ Vote dans l’Agora <a href="#vote-dans-lagora" id="vote-dans-lagora"></a>
 
 Cette semaine a également vu l’adoption de la onzième proposition de la DAO : elle portait sur la création d’un salon dédié aux _Sidechains_ ! Avec le retour du _DeFi summer_ et des fortes incitations sur les nouvelles chaines, il paraissait important d’ouvrir cet espace de discussion à la communauté.
 
@@ -35,6 +35,6 @@ La proposition a néanmoins suscité quelques discussions sur la décentralisati
 
 Si vous n’êtes pas encore membre de DeFi France, il n’est jamais trop tard pour nous rejoindre : retrouvez le Discord [ici](https://discord.gg/GuzNkFnZb4) !
 
-_Compte rendu écrit par _[_Disiaque_](https://twitter.com/disiaque\_crypto)_ & revu par Charles : le binôme de scribes de DeFi France._
+_Compte rendu écrit par_ [_Disiaque_](https://twitter.com/disiaque\_crypto) _& revu par Charles : le binôme de scribes de DeFi France._
 
 _🙏 Un grand merci à eux deux pour leurs contributions !_

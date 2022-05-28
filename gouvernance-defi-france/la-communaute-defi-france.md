@@ -2,7 +2,7 @@
 description: >-
   Historique rapide et tour d'horizon de la communauté DeFi France et sa
   gouvernance communautaire
-cover: ../../.gitbook/assets/dff-banner-communauté(1).png
+cover: ../.gitbook/assets/dff-banner-communauté(1).png
 coverY: 0
 ---
 
@@ -18,8 +18,8 @@ Depuis sa création, DeFi France a pour ambition de rendre la finance décentral
 
 Différentes initiatives pour proposer **des contenus de qualité en français sur le sujet,** tels que :&#x20;
 
-* [BanklessFR](https://banklessfr.substack.com),&#x20;
-* [TheDailyGweiFR](https://thedailygweifr.substack.com),&#x20;
+* [BanklessFR](https://banklessfr.substack.com/),&#x20;
+* [TheDailyGweiFR](https://thedailygweifr.substack.com/),&#x20;
 * le [blog TokenBrice](https://tokenbrice.xyz/fr/),
 * [la chaine youtube DeFi France](https://youtube.com/c/defifrance), etc.
 

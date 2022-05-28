@@ -23,7 +23,7 @@ Au menu de cette semaine :
 
 Fort heureusement, le salon ⚖️ **Tribunal** n’a pas encore eu à fonctionner. Nous n’aurons donc pas à revenir sur les affaires juridiques de DeFi France : espérons que cela soit le cas pendant longtemps !
 
-#### Inauguration de salons <a href="inauguration-de-salons" id="inauguration-de-salons"></a>
+#### Inauguration de salons <a href="#inauguration-de-salons" id="inauguration-de-salons"></a>
 
 La semaine a vu la réorganisation des trois principaux salons dédiés à la finance décentralisée :
 
@@ -44,7 +44,7 @@ On compte aussi la création ou la refonte d’autres salons :
 
 ***
 
-#### Des nouvelles de Déméter <a href="des-nouvelles-de-demeter" id="des-nouvelles-de-demeter"></a>
+#### Des nouvelles de Déméter <a href="#des-nouvelles-de-demeter" id="des-nouvelles-de-demeter"></a>
 
 Notre déésse Déméter (= le nom donné au bot du serveur) a été particulièrement à l’écoute cette semaine ! Le salon 🔮 **Oracle** permet d’intéragir avec elle pour connaître la répartition du blé ou pour distribuer des airdrops. La liste des commandes y sont explicités.
 
@@ -65,7 +65,7 @@ Nolan Vanmoortel a proposé un **concours** associé à ce système : 1000 UBI s
 
 ***
 
-#### Proposition de contenus <a href="proposition-de-contenus" id="proposition-de-contenus"></a>
+#### Proposition de contenus <a href="#proposition-de-contenus" id="proposition-de-contenus"></a>
 
 Owerache a proposé d’organiser la création de **contenus vidéos** par les membres DeFi France. Sous la forme d’un jeu concours appelé **DeFi.me**, chaque membre est invité à présenter un protocole en quelques rushs vidéos. L’idée est encore au stade de test et aboutira peut-être à une proposition formelle la semaine prochaine.
 
@@ -75,13 +75,13 @@ Noé, ambassadeur FR chez **Ocean Protocol** propose une conférence pour prése
 
 ***
 
-#### Débats dans l’Agora <a href="debats-dans-lagora" id="debats-dans-lagora"></a>
+#### Débats dans l’Agora <a href="#debats-dans-lagora" id="debats-dans-lagora"></a>
 
 De nombreux débats de fond ont vu le jour, merci à tous les participants qui ont donné leur avis :
 
 * Un débat important a concerné les **modalités de vote** du salon 📜**Proposition** : plusieurs membres ont exprimé le souhait de pouvoir déléguer leurs votes, d’autres désiraient comptabiliser les votes blancs et enfin, certains ne voulaient rien changer ! Un consensus n’a pu être trouvé et il a été décidé de reprendre ce débat plus tardivement. Affaire à suivre…
 * La pondération des **récompenses en blé** par salon a été rendue publique pour discussion. Plusieurs retours ont été faits pour augmenter ou diminuer certaines sommes… On attend une proposition formelle !
-* Enfin, Otherbright | BanklessFR & co est en train de formaliser une proposition d’un **airdrop rétroactif de BANK** issu de la [BANKLESS DAO](https://www.bankless.community). La proposition rédigée est déjà bien avancée et devrait être soumise à la DAO sous peu.
+* Enfin, Otherbright | BanklessFR & co est en train de formaliser une proposition d’un **airdrop rétroactif de BANK** issu de la [BANKLESS DAO](https://www.bankless.community/). La proposition rédigée est déjà bien avancée et devrait être soumise à la DAO sous peu.
 
 Parmi les propositions votées cette semaine, on compte :
 
@@ -99,6 +99,6 @@ C’est tout pour cette semaine, nous nous retrouvons la semaine prochaine pour 
 
 Si vous n’êtes pas encore membre, il n’est jamais trop tard pour nous rejoindre : retrouvez le [**Discord DeFi France ici**](https://discord.gg/3bWZcK2) !
 
-_Compte rendu écrit par _[_Disiaque_](https://twitter.com/disiaque\_crypto)_ & revu par Charles : le binôme de scribes de DeFi France._
+_Compte rendu écrit par_ [_Disiaque_](https://twitter.com/disiaque\_crypto) _& revu par Charles : le binôme de scribes de DeFi France._
 
 _🙏 Un grand merci à eux deux pour leurs contributions !_

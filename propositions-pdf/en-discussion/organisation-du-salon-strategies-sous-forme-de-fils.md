@@ -21,7 +21,7 @@ La stratégie devra respecter la nomenclature des autres messages, à savoir pr�
 * 🛠 En pratique&#x20;
 * ❌ Risques
 
-Si la stratégie est complexe,  elle sera synthétisée en un schéma de manière à tenir sur le message principal. On pourra utiliser l'outil [https://excalidraw.com/](https://excalidraw.com) qui est simple d'utilisation.
+Si la stratégie est complexe,  elle sera synthétisée en un schéma de manière à tenir sur le message principal. On pourra utiliser l'outil [https://excalidraw.com/](https://excalidraw.com/) qui est simple d'utilisation.
 
 ### **Implémentation**
 

@@ -13,7 +13,7 @@ La communauté DeFi France se rassemble et continue de grandir sur le serveur Di
 * ✍ Discussions sur les nouveaux salons ;
 * 🏛️ Votes dans l’Agora ;
 
-### 👛 Création d’un faucet communautaire <a href="creation-dun-faucet-communautaire" id="creation-dun-faucet-communautaire"></a>
+### 👛 Création d’un faucet communautaire <a href="#creation-dun-faucet-communautaire" id="creation-dun-faucet-communautaire"></a>
 
 Une discussion avait débuté il y a quelques semaines sur la création d’un faucet communautaire. L’idée était de fournir quelques coins aux membres qui souhaiteraient faire une première transaction sur des Layers 2 ou des blockchains autres qu’Ethereum.
 
@@ -28,15 +28,15 @@ Les possibilités offertes par ce faucet sont nombreuses ! On pourrait imaginer 
 
 > Merci aux généreux donateurs @Taz, @Arthursw et @krkqui, qui ont fourni de la liquidité pour initier le faucet !
 
-### 🎨 NFT et POAP DeFi France ? <a href="nft-et-poap-defi-france" id="nft-et-poap-defi-france"></a>
+### 🎨 NFT et POAP DeFi France ? <a href="#nft-et-poap-defi-france" id="nft-et-poap-defi-france"></a>
 
 [@tokenbrice](https://twitter.com/TokenBrice) a émis plusieurs propositions afin de dynamiser la communauté DeFi France en cette rentrée ! Il a tout d’abord inauguré le nouveau salon 🃏**Poap** pour offrir ces précieux NFT aux participants des lives et des rencontres. Le premier test de la fonctionnalité devrait être fait la semaine prochaine.
 
-Il a ensuite rédigé une proposition concernant un airdrop de **hoodies** produits en France et qui serait alloué au top 50 des farmeurs en blé. Le projet se fait en collaboration avec l’entreprise [Arianee](https://www.arianee.org) qui se chargerait du coût de production. Pour les membres DeFi France, c’est une occasion de découvrir les interactions des NFT-redeemables ! Affaire à suivre…
+Il a ensuite rédigé une proposition concernant un airdrop de **hoodies** produits en France et qui serait alloué au top 50 des farmeurs en blé. Le projet se fait en collaboration avec l’entreprise [Arianee](https://www.arianee.org/) qui se chargerait du coût de production. Pour les membres DeFi France, c’est une occasion de découvrir les interactions des NFT-redeemables ! Affaire à suivre…
 
 [@NolanVanmoortel](https://twitter.com/NolanVanmoortel) a ajouté qu’il allait importer les données de Déméter sur Aleph : elles seront ainsi décentralisées et facilement réutilisables pour les airdrops communautaires.
 
-### ✍ Discussions sur les nouveaux salons <a href="discussions-sur-les-nouveaux-salons" id="discussions-sur-les-nouveaux-salons"></a>
+### ✍ Discussions sur les nouveaux salons <a href="#discussions-sur-les-nouveaux-salons" id="discussions-sur-les-nouveaux-salons"></a>
 
 Plusieurs discussions ont vu le jour concernant la création des salons sur le serveur. Deux salons ont particulièrement suscité l’intérêt des membres :
 
@@ -45,7 +45,7 @@ Plusieurs discussions ont vu le jour concernant la création des salons sur le s
 
 Il y a ainsi eu de beaux débats sur l’efficacité du serveur et la redondance de l’information !
 
-### 🏛️ Votes dans l’Agora <a href="votes-dans-lagora" id="votes-dans-lagora"></a>
+### 🏛️ Votes dans l’Agora <a href="#votes-dans-lagora" id="votes-dans-lagora"></a>
 
 La DAO de DeFi France a donc été particulièrement active la semaine dernière : plusieurs propositions ont été acceptées ou rejetées.
 
@@ -57,6 +57,6 @@ La DAO de DeFi France a donc été particulièrement active la semaine dernière
 
 La gouvernance partagée de DeFi France se réalise quotidiennement dans 🏛️**l’Agora** : à vos propositions !✍ Si vous n’êtes pas encore membre de DeFi France, il n’est jamais trop tard pour nous rejoindre : retrouvez le Discord [ici](https://discord.gg/GuzNkFnZb4) !
 
-_Compte rendu écrit par _[_Disiaque_](https://twitter.com/disiaque\_crypto)_ & revu par Charles : le binôme de scribes de DeFi France._
+_Compte rendu écrit par_ [_Disiaque_](https://twitter.com/disiaque\_crypto) _& revu par Charles : le binôme de scribes de DeFi France._
 
 _🙏 Un grand merci à eux deux pour leurs contributions !_

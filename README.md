@@ -27,9 +27,9 @@ Rejoindre le Discord DeFi France
 
 Différents contenus francophones sont également proposés par nos membres :&#x20;
 
-* [BanklessFR](https://banklessfr.substack.com) : pour des articles de réflexion sur les principaux développements en DeFi
+* [BanklessFR](https://banklessfr.substack.com/) : pour des articles de réflexion sur les principaux développements en DeFi
 * [TheDailyGweiFR](https://thedailygweifr.substack.com) : pour un suivi plus quotidien et ciblé des actualités
-* [MetaVersalFR](https://metaversalfr.substack.com) : une newsletter pour suivre le développement du métaverse et des NFTs
+* [MetaVersalFR](https://metaversalfr.substack.com/) : une newsletter pour suivre le développement du métaverse et des NFTs
 * [Blog TokenBrice](https://tokenbrice.xyz/fr/) : articles approfondis pour parfaire sa compréhension de la DeFi
 * [Live TokenBrice](https://www.youtube.com/watch?v=LXDSxRCMsDE\&list=PLreQl\_vxgtPhSZeMiTbzXAjL\_U-\_NnQwD) : des lives plus ou moins techniques pour découvrir et comprendre des protocoles ou mécanismes essentiels en DeFi
 
