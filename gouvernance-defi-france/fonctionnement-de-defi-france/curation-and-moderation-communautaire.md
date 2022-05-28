@@ -32,7 +32,7 @@ Deux familles d'emojis-actions permettent à la communauté d'organiser et de pr
 
 Voyons comment ces fonctions sont utilisées concrètement :&#x20;
 
-![Curation communautaire sur DeFi France : gestion des hors-sujet et sauvegarde](<../../.gitbook/assets/image (5).png>)
+![Curation communautaire sur DeFi France : gestion des hors-sujet et sauvegarde](<../../.gitbook/assets/image (5) (1).png>)
 
 ### Les sanctions : `#⚖-tribunal` et prison
 
