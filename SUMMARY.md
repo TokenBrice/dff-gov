@@ -30,8 +30,8 @@
 ## 📜 Propositions
 
 * [💬 22 - Partage des responsabilités dans DeFi France](propositions/22-partage-des-responsabilites-dans-defi-france.md)
-* [💬 24 - Gestion de l'airdrop Optimism](propositions/24-gestion-de-lairdrop-optimism.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
+  * [📜 24 - Gestion de l'airdrop Optimism](propositions/propositions-acceptees/24-gestion-de-lairdrop-optimism.md)
   * [📜 23 - Marquer un message comme étant inéligible à recevoir de la réputation](propositions/propositions-acceptees/23-marquer-un-message-comme-etant-ineligible-a-recevoir-de-la-reputation.md)
   * [📜 #21 - Création d'un salon dédié au projet « Wiki Tokenomics » dans « Projet publics »](propositions/propositions-acceptees/21-creation-dun-salon-dedie-au-projet-wiki-tokenomics-dans-projet-publics.md)
   * [📜 #20 - Simplification du Captcha présenté aux nouveaux arrivants dans le salon 👋-bienvenue](propositions/propositions-acceptees/20-simplification-du-captcha-presente-aux-nouveaux-arrivants-dans-le-salon-bienvenue.md)
