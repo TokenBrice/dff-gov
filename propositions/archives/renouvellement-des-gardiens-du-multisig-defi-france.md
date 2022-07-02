@@ -2,7 +2,7 @@
 description: 💬 En discussion
 ---
 
-# 📜 # - Renouvellement des gardiens du multisig DeFi France
+# 💬 # - Renouvellement des gardiens du multisig DeFi France
 
 ## Proposition originale
 

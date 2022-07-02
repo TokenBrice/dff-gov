@@ -29,7 +29,6 @@
 
 ## 📜 Propositions
 
-* [💬 22 - Partage des responsabilités dans DeFi France](propositions/22-partage-des-responsabilites-dans-defi-france.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
   * [📜 24 - Gestion de l'airdrop Optimism](propositions/propositions-acceptees/24-gestion-de-lairdrop-optimism.md)
   * [📜 23 - Marquer un message comme étant inéligible à recevoir de la réputation](propositions/propositions-acceptees/23-marquer-un-message-comme-etant-ineligible-a-recevoir-de-la-reputation.md)
@@ -57,8 +56,9 @@
   * [📜 #12 - Création du salon « Projet prometteur »](propositions-pdf/propositions-refusees/12-creation-du-salon-projet-prometteur.md)
   * [📜 #6 - Suppression du salon « Admin-blabla »](propositions-pdf/propositions-refusees/6-suppression-du-salon-admin-blabla.md)
 * [💾 Archives](propositions/archives/README.md)
-  * [📜 # - Gouvernance de DeFi France](propositions/archives/gouvernance-de-defi-france.md)
-  * [📜 # - Renouvellement des gardiens du multisig DeFi France](propositions/archives/renouvellement-des-gardiens-du-multisig-defi-france.md)
+  * [💬 # - Gouvernance de DeFi France](propositions/archives/gouvernance-de-defi-france.md)
+  * [💬 # - Renouvellement des gardiens du multisig DeFi France](propositions/archives/renouvellement-des-gardiens-du-multisig-defi-france.md)
+  * [💬 22 - Partage des responsabilités dans DeFi France](propositions/archives/22-partage-des-responsabilites-dans-defi-france.md)
 
 ## 🙋 Rôles
 
