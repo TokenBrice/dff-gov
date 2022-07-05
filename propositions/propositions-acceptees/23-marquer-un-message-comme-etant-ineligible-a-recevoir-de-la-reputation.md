@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/dff-pdf-discussion.png
 coverY: 0
 ---
 
-# 📜 #22 - Marquer un message comme étant inéligible à recevoir de la réputation
+# 📜 23 - Marquer un message comme étant inéligible à recevoir de la réputation
 
 ### Contexte
 

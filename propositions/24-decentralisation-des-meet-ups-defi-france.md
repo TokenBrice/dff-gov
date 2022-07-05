@@ -6,7 +6,7 @@ description: Proposition en cours de discussion
 
 ### Contexte
 
-La communauté DeFi France s'est construite autour d'un espace de discussion dédié à la finance décentralisée, mais également à l'aide de rendez-vous réguliers dans la capitale. Les meet-ups ont contribué à démocratiser la DeFi tout en tissant des relations d'amitiés et de partenariats avec l'ensemble des acteurs de l'écosystème web3. On se propose d'étendre l'organisation des meet-ups par-delà la capitale afin de mieux répondre aux attentes des participants.
+La communauté DeFi France s'est construite autour d'un espace de discussion dédié à la finance décentralisée, mais également autour de rendez-vous réguliers. Les meet-ups parisiens ont ainsi contribué à démocratiser la DeFi tout en tissant des relations d'amitiés et de partenariats avec l'ensemble des acteurs de l'écosystème web3. On se propose d'étendre leur organisation par-delà la capitale afin de mieux répondre aux attentes des participants.
 
 ### Objet
 
@@ -14,12 +14,12 @@ L'organisation de meet-up locaux suppose un travail important pour rassembler le
 
 Il est proposé :
 
-* Qu'une série d'équipes organisant des rencontres locales soient officiellement créées selon les disponibilités de chacun. Chaque équipe porte le nom de DeFi France suivi de sa localisation : par exemple, "DeFi France Lyon" désigne l'équipe organisant les rencontres à Lyon.
+* Que plusieurs équipes organisant des rencontres locales soient créées selon les disponibilités de chacun. Chaque équipe portera le nom de DeFi France suivi de sa localisation : par exemple, "DeFi France Lyon" désigne l'équipe organisant les rencontres à Lyon. Une personne référente est désigné comme le point de contact pour chaque équipe.
 * Que chaque équipe adhère aux valeurs et objectifs tels que définis dans la proposition [Orientation générale de DeFi France](https://docs.defi-france.org/dff/propositions/propositions-acceptees/16-orientation-generale-de-defi-france).
-* Que chaque équipe conserve son autonomie dans l'organisation des rencontres, le choix des intervenants et des thèmes abordés liés à la finance décentralisée, ainsi que de son calendrier. Une équipe est constituée en désignant un référent envisagé comme le point de contact principal.
+* Que chaque équipe conserve son autonomie dans l'organisation des rencontres. Cela signifie qu'elle gère le choix des intervenants et des thèmes abordés liés à la finance décentralisée, ainsi que son calendrier sans avoir à consulter l'Agora de DeFi France.
 * Que les outils de travail et de communication soient mutualisés afin de simplifier le travail collectif. Ainsi, l'espace de travail se fera sur le notion et le discord de DeFi France, la communication sur le compte Twitter (plus de 3000 abonnés), la réservation sur Meet-Up et la captation sur le YouTube officiel.
 
-La collaboration entre les différentes équipes sera incités à l'aide de templates, d'échanges d'expériences, d'annuaire de contacts, voire même de sources de financement (si elles existent). Il sera ainsi créé une nouvelle section dédiée à l'organisation des meet-up locaux dans le Discord. Elle comportera un premier salon dédiée à la discussion générale sur ces projets et un salon pour chaque équipe.
+La collaboration entre les différentes équipes sera incités à l'aide de templates, d'échanges d'expériences, d'annuaire de contacts, voire même de sources de financement (si elles existent). Il sera ainsi créé une nouvelle section dans le Discord comportant un premier salon dédiée à la discussion générale sur ces projets, et des salon pour chacune des équipes.
 
 Dans cette première étape de décentralisation, il est créé trois équipes :
 
@@ -27,7 +27,7 @@ Dans cette première étape de décentralisation, il est créé trois équipes :
 * "DeFi France Lyon" avec comme référent Disiaque.
 * "DeFi France Toulouse" avec comme référent Cyrille.
 
-L'ajout de nouvelle équipe se fait par la constitution d'une équipe de membre de DeFi France, ou par une collaboration avec une équipe déjà existante par ailleurs. Elle suppose systématiquement une discussion suivie d'un vote dans l'Agora.&#x20;
+Dans le futur, la constitution de nouvelles équipes se fera à partir de membres DeFi France, ou d'une collaboration avec une équipe déjà existante par ailleurs. Elle suppose systématiquement une discussion suivie d'un vote dans l'Agora.&#x20;
 
 ### Implémentation
 
