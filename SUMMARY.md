@@ -29,9 +29,10 @@
 
 ## 📜 Propositions
 
+* [💬 #24 - Décentralisation des meet-ups DeFi France](propositions/24-decentralisation-des-meet-ups-defi-france.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
-  * [📜 #23 - Gestion de l'airdrop Optimism](propositions/propositions-acceptees/23-gestion-de-lairdrop-optimism.md)
-  * [📜 #22 - Marquer un message comme étant inéligible à recevoir de la réputation](propositions/propositions-acceptees/22-marquer-un-message-comme-etant-ineligible-a-recevoir-de-la-reputation.md)
+  * [📜 #23 - Gestion de l'airdrop Optimism](propositions/propositions-acceptees/24-gestion-de-lairdrop-optimism.md)
+  * [📜 #22 - Marquer un message comme étant inéligible à recevoir de la réputation](propositions/propositions-acceptees/23-marquer-un-message-comme-etant-ineligible-a-recevoir-de-la-reputation.md)
   * [📜 #21 - Création d'un salon dédié au projet « Wiki Tokenomics » dans « Projet publics »](propositions/propositions-acceptees/21-creation-dun-salon-dedie-au-projet-wiki-tokenomics-dans-projet-publics.md)
   * [📜 #20 - Simplification du Captcha présenté aux nouveaux arrivants dans le salon 👋-bienvenue](propositions/propositions-acceptees/20-simplification-du-captcha-presente-aux-nouveaux-arrivants-dans-le-salon-bienvenue.md)
   * [📜 #19 - Création du canal textuel «💬-banklessfr-readers» dédié aux interractions avec le média](propositions/propositions-acceptees/19-creation-du-canal-textuel-banklessfr-readers-dedie-aux-interractions-avec-le-media.md)

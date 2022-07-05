@@ -2,7 +2,7 @@
 description: Proposition implémentée le 21 mai 2022 ✅
 ---
 
-# 📜 24 - Gestion de l'airdrop Optimism
+# 📜 #23 - Gestion de l'airdrop Optimism
 
 ### Contexte
 
