@@ -23,8 +23,9 @@ La collaboration entre les différentes équipes sera incitée à l'aide de temp
 
 Dans cette première étape de décentralisation, il est créé trois équipes :
 
-* "DeFi France Paris" avec comme référent ArthurSW ou Genji ?
 * "DeFi France Lyon" avec comme référent Disiaque.
+* "DeFi France Paris" avec comme référent ArthurSW ou Genji ?
+* "DeFi France Rouen" avec comme référent Leochhhh.
 * "DeFi France Toulouse" avec comme référent Cyrille.
 
 Dans le futur, la constitution de nouvelles équipes se fera à partir des membres actifs DeFi France, ou d'une collaboration avec une équipe déjà existante par ailleurs. Elle suppose systématiquement une discussion suivie d'un vote dans l'Agora.&#x20;
@@ -34,8 +35,9 @@ Dans le futur, la constitution de nouvelles équipes se fera à partir des membr
 ArthurSW mettra à jour le serveur Discord en créant une section "Organisation meet-up". Cette section comportera les salons suivants :
 
 * "organisation-generale" pour discuter des sujets transversaux à toutes les équipes
-* "meet-up-paris" créé à partir du salon déjà existant (pour ne pas en perdre l'historique)
 * "meet-up-lyon" créé à partir d'un nouveau salon
+* "meet-up-paris" créé à partir du salon déjà existant (pour ne pas en perdre l'historique)
+* "meet-up-rouen" créé à partir d'un nouveau salon
 * "meet-up-toulouse" créé à partir d'un nouveau salon
 
 Un des premiers sujets à aborder sera de revoir l'accès aux moyens de communication, et une meilleure structuration du Discord.
