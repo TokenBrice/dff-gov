@@ -16,7 +16,7 @@ Il est proposé :
 
 * Que plusieurs équipes organisant des rencontres locales soient créées. Chaque équipe portera le nom de DeFi France suivi de sa localisation : par exemple, "DeFi France Lyon" désigne l'équipe organisant les rencontres à Lyon. Une personne référente est désignée comme le point de contact pour chaque équipe.
 * Que chaque équipe adhère aux valeurs et objectifs tels que définis dans la proposition [Orientation générale de DeFi France](https://docs.defi-france.org/dff/propositions/propositions-acceptees/16-orientation-generale-de-defi-france).
-* Que chaque équipe conserve son autonomie dans l'organisation des rencontres. Cela signifie qu'elle gère le choix des intervenants et des thèmes abordés liés à la finance décentralisée, ainsi que son calendrier de rencontre, sans avoir à consulter la gouvernance de DeFi France.
+* Que chaque équipe conserve son autonomie dans l'organisation des événements. Cela signifie qu'elle gère le choix des intervenants et des thèmes abordés liés à la finance décentralisée, ainsi que son calendrier de rencontre, sans avoir à consulter la gouvernance de DeFi France.
 * Que les outils de travail et de communication soient mutualisés afin de simplifier le travail collectif. Ainsi, l'espace de travail se fera sur le notion et le discord de DeFi France, la communication sur le compte Twitter (plus de 3000 abonnés), la réservation sur Meet-Up et la captation sur le YouTube officiel.
 
 La collaboration entre les différentes équipes sera incitée à l'aide de templates, d'échanges d'expériences, d'annuaire de contacts, voire même de sources de financement (si elles existent !). Il sera ainsi créé une nouvelle section dans le Discord comportant un premier salon dédiée à la discussion générale sur ces projets, et des salons pour chacune des équipes.
@@ -40,7 +40,7 @@ ArthurSW mettra à jour le serveur Discord en créant une section "Organisation 
 * "meet-up-rouen" créé à partir d'un nouveau salon
 * "meet-up-toulouse" créé à partir d'un nouveau salon
 
-Un des premiers sujets à aborder sera de revoir l'accès aux moyens de communication, et une meilleure structuration du Discord.
+Un des premiers sujets à aborder sera de revoir l'accès aux moyens de communication, et une meilleure structuration du Notion.
 
 ### Rédacteur
 
