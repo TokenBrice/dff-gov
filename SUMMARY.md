@@ -29,6 +29,7 @@
 
 ## 📜 Propositions
 
+* [💬 #25 -Mise à jours des canaux](propositions/25-mise-a-jours-des-canaux.md)
 * [💬 #24 - Décentralisation des meet-ups DeFi France](propositions/24-decentralisation-des-meet-ups-defi-france.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
   * [📜 #23 - Gestion de l'airdrop Optimism](propositions/propositions-acceptees/24-gestion-de-lairdrop-optimism.md)
