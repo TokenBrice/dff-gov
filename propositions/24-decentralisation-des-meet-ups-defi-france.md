@@ -21,7 +21,7 @@ Il est proposé :
 
 La collaboration entre les différentes équipes sera incitée à l'aide de templates, d'échanges d'expériences, d'annuaire de contacts, voire même de sources de financement (si elles existent !). Il sera ainsi créé une nouvelle section dans le Discord comportant un premier salon dédiée à la discussion générale sur ces projets, et des salons pour chacune des équipes.
 
-Dans cette première étape de décentralisation, il est créé trois équipes :
+Dans cette première étape de décentralisation, il est créé quatre équipes :
 
 * "DeFi France Lyon" avec comme référent Disiaque.
 * "DeFi France Paris" avec comme référent ArthurSW ou Genji ?
