@@ -18,7 +18,7 @@ Ensuite, le canal "sidechains" a été voté le 22/08/2021 avec 29% POUR et 21% 
 
 Ce canal "évènement" permettra à la fois de mettre en avant les évènements cryptos mais aussi de se rencontrer plus facilement lors de ceux ci. Chaque personne pourra envoyer des liens des évènements qu'il connait ou organise.
 
-Cette suppression permettra de mettre de l'ordre dans le discord et d'enlever un canal inactif.
+Pour le canal "sidechain", cette suppression permettra de mettre de l'ordre dans le discord et d'enlever un canal inactif.
 
 ### **Implémentation**&#x20;
 
