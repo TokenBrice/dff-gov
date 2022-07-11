@@ -2,7 +2,7 @@
 description: Proposition en cours de discussion
 ---
 
-# 💬 #24 - Décentralisation des meet-ups DeFi France
+# 💬 #25 - Décentralisation des meet-ups DeFi France
 
 ### Contexte
 
@@ -24,7 +24,7 @@ La collaboration entre les différentes équipes sera incitée à l'aide de temp
 Dans cette première étape de décentralisation, il est créé quatre équipes :
 
 * "DeFi France Lyon" avec comme référent Disiaque.
-* "DeFi France Paris" avec comme référent ArthurSW ou Genji ?
+* "DeFi France Paris" avec comme référent ArthurSW.
 * "DeFi France Rouen" avec comme référent Leochhhh.
 * "DeFi France Toulouse" avec comme référent Cyrille.
 
