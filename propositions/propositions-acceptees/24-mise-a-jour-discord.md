@@ -1,8 +1,8 @@
 ---
-description: Proposition en cours de discussion
+description: Proposition implémentée le 12 juillet 2022 ✅
 ---
 
-# 💬 #24 -Mise à jours des canaux
+# 📜 #24 -Mise à jour Discord
 
 ## Proposition création canal "Evènement" et **suppression canal "Sidechain"**
 

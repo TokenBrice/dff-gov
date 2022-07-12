@@ -1,10 +1,10 @@
 ---
-description: En cours d'implémentation
+description: Proposition implémentée ✅
 cover: ../../.gitbook/assets/dff-pdf-discussion.png
 coverY: 0
 ---
 
-# 📜 23 - Marquer un message comme étant inéligible à recevoir de la réputation
+# 📜 #22 - Marquer un message comme étant inéligible à recevoir de la réputation
 
 ### Contexte
 
