@@ -31,7 +31,7 @@
 
 * [💬 #25 - Décentralisation des meet-ups DeFi France](propositions/25-decentralisation-des-meet-ups-defi-france.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
-  * [📜 #24 -Mise à jour Discord](propositions/propositions-acceptees/24-mise-a-jour-discord.md)
+  * [📜 #24 - Mise à jour Discord](propositions/propositions-acceptees/24-mise-a-jour-discord.md)
   * [📜 #23 - Gestion de l'airdrop Optimism](propositions/propositions-acceptees/24-gestion-de-lairdrop-optimism.md)
   * [📜 #22 - Marquer un message comme étant inéligible à recevoir de la réputation](propositions/propositions-acceptees/23-marquer-un-message-comme-etant-ineligible-a-recevoir-de-la-reputation.md)
   * [📜 #21 - Création d'un salon dédié au projet « Wiki Tokenomics » dans « Projet publics »](propositions/propositions-acceptees/21-creation-dun-salon-dedie-au-projet-wiki-tokenomics-dans-projet-publics.md)
