@@ -1,8 +1,8 @@
 ---
-description: Proposition en cours de discussion
+description: Proposition implémentée le 26 juillet 2022 ✅
 ---
 
-# 💬 #25 - Décentralisation des meet-ups DeFi France
+# 📜 #25 - Décentralisation des meet-ups DeFi France
 
 ### Contexte
 
