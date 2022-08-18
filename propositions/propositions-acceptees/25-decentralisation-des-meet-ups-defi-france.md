@@ -1,5 +1,5 @@
 ---
-description: Proposition implémentée le 26 juillet 2022
+description: Proposition implémentée le 26 juillet 2022 ✅
 ---
 
 # 📜 #25 - Décentralisation des meet-ups DeFi France
