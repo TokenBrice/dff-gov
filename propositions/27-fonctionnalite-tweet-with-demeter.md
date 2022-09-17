@@ -12,7 +12,7 @@ Tout le monde serait invité à voter. Pour qu'une proposition soit acceptée, i
 
 * Au moins 4000 points de réputation se soient exprimés (somme des votes en faveur et contre)
 * La majorité des points de réputation soit en faveur
-* Au moins 5 personnes avec le rôle @🐤Membre soient en faveur (mesure sybil résistante)
+* Au moins 5 personnes avec le rôle @🐣Apprenti.e soient en faveur (mesure sybil résistante)
 
 Une proposition serait refusée si :&#x20;
 
@@ -34,7 +34,7 @@ Création d'un nouveau rôle "@Twitter-admin"
 Ajout de 7 nouveaux paramètres au bot Discord Déméter :
 
 * twitter-admin-role : @Twitter-admin
-* twitter-member-role: @🐤Membre
+* twitter-member-role: @🐣Apprenti.e
 * twitter-proposal-duration: 2 jours (48h)
 * twitter-min-rep-proposal: 4000
 * twitter-min-in-favor-members: 5
