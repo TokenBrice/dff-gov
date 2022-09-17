@@ -10,14 +10,14 @@ La mise en place d'un système de publication Twitter communautaire pourrait êt
 
 Tout le monde serait invité à voter. Pour qu'une proposition soit acceptée, il faudrait que :&#x20;
 
-* Au moins 4000 points de réputation se soient exprimés (somme des votes en faveur et contre)
-* La majorité des points de réputation soit en faveur
-* Au moins 5 personnes avec le rôle @🐣Apprenti.e soient en faveur (mesure sybil résistante)
+* Au moins 4000 points de réputation se soient exprimés (somme des votes en faveur et contre),
+* la majorité des points de réputation soit en faveur
+* et qu'au moins 5 personnes avec le rôle @🐣Apprenti.e soient en faveur (mesure sybil résistante)
 
 Une proposition serait refusée si :&#x20;
 
 * Au moins 4000 points de réputation se sont exprimés (somme des votes en faveur et contre)
-* La majorité des points de réputation est contre
+* et la majorité des points de réputation est contre
 
 Si une proposition n'était pas acceptée endéans les 48h, elle serait alors automatiquement rejetée.
 
