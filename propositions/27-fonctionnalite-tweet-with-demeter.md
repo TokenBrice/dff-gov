@@ -1,4 +1,4 @@
-# #27 -Fonctionnalité "Tweet with Demeter"
+# #27 - Fonctionnalité "Tweet with Demeter"
 
 ### Contexte
 
