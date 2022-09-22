@@ -29,8 +29,8 @@
 
 ## 📜 Propositions
 
-* [#27 - Fonctionnalité "Tweet with Demeter"](propositions/27-fonctionnalite-tweet-with-demeter.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
+  * [📜 #27 - Fonctionnalité "Tweet with Demeter"](propositions/propositions-acceptees/27-fonctionnalite-tweet-with-demeter.md)
   * [📜 #26 - Gestion du Twitter DeFi France](propositions/26-gestion-du-twitter-defi-france.md)
   * [📜 #25 - Décentralisation des meet-ups DeFi France](propositions/propositions-acceptees/25-decentralisation-des-meet-ups-defi-france.md)
   * [📜 #24 - Mise à jour Discord](propositions/propositions-acceptees/24-mise-a-jour-discord.md)
