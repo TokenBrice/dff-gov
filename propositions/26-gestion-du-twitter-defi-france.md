@@ -1,5 +1,5 @@
 ---
-description: Proposition en cours de discussion
+description: Proposition implémentée le 06 octobre 2022✅
 ---
 
 # 📜 #26 - Gestion du Twitter DeFi France
