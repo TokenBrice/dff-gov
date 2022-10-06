@@ -29,7 +29,7 @@
 
 ## 📜 Propositions
 
-* [💬 #28 - Renouvellement des signataires du multisig de DeFi France](propositions/28-renouvellement-des-signataires-du-multisig-de-defi-france.md)
+* [💬 #28 - Renouvellement des signataires du multisig DeFi France](propositions/28-renouvellement-des-signataires-du-multisig-defi-france.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
   * [📜 #27 - Fonctionnalité « Tweet with Demeter »](propositions/propositions-acceptees/27-fonctionnalite-tweet-with-demeter.md)
   * [📜 #26 - Gestion du Twitter DeFi France](propositions/26-gestion-du-twitter-defi-france.md)

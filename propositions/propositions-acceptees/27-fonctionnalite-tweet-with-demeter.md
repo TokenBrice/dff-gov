@@ -1,3 +1,7 @@
+---
+description: ✅Proposition implémentée le 22/09/2022
+---
+
 # 📜 #27 - Fonctionnalité « Tweet with Demeter »
 
 ### Contexte

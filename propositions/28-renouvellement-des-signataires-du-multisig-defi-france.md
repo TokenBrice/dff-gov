@@ -2,7 +2,7 @@
 description: Proposal en cours de discussion
 ---
 
-# 💬 #28 - Renouvellement des signataires du multisig de DeFi France
+# 💬 #28 - Renouvellement des signataires du multisig DeFi France
 
 ### Contexte
 
