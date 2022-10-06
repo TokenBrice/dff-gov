@@ -1,8 +1,8 @@
-# 📜 #27 - Fonctionnalité "Tweet with Demeter"
+# 📜 #27 - Fonctionnalité « Tweet with Demeter »
 
 ### Contexte
 
-La proposition "#26 - Gestion du Twitter DeFi France" a récemment été acceptée. Elle a notamment pour objectif de rendre le compte Twitter plus actif. C'est dans ce sens que cette nouvelle proposition va aussi.
+La proposition [#26 - Gestion du Twitter DeFi France](https://docs.defi-france.org/dff/propositions/propositions-acceptees/26-gestion-du-twitter-defi-france) a récemment été acceptée. Elle a notamment pour objectif de rendre le compte Twitter plus actif. C'est dans ce sens que cette nouvelle proposition va aussi.
 
 ### Objet
 
