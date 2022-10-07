@@ -12,7 +12,11 @@ Le multisig de DeFi France a été inauguré avec la proposal [#7- Création du 
 
 DeFi France ne possède pas à ce jour d'outil capable de procéder à des élections décentralisées et qui prendrait en considération les points de réputation. Cette limite importante dans le fonctionnement de Démeter a entraîné de nombreux débats, étalés dans le temps, et à des blocages de gouvernance. Afin de limiter au maximum les conflits autour du renouvellement des signataires, on propose ici de procéder par consensus communautaire et à l'aide de critères objectifs.
 
-Le multisig comporte actuellement dix signataires :
+Au 07 octobre 2022, le classement de Demeter se présente de la manière suivante :
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2022-10-07 093148.png" alt=""><figcaption></figcaption></figure>
+
+Et le multisig comporte dix signataires :
 
 | ID  | Anciens signataires |
 | --- | ------------------- |
@@ -33,7 +37,7 @@ Les signataires qui ne respectent pas les critères suivants sont appelés à ê
 * Avoir participé dans les derniers mois aux activités de DeFi France, notamment aux discussions du serveur.
 * Être intéressé pour intégrer le multisig pour une durée de six mois.
 
-Parmi les gardiens actuels, cinq ne respectent pas ces critères. On les renouvelle en suivant le classement de Démeter et sous réserve que les nouveaux signataires donnent leur accord. On aboutit ainsi aux changements suivant :
+Parmi les gardiens actuels, cinq ne respectent pas ces critères. On les renouvelle en suivant le classement de Demeter et sous réserve que les nouveaux signataires donnent leur accord. On aboutit ainsi aux changements suivant :
 
 | Ancien          | Nouveau  |
 | --------------- | -------- |
