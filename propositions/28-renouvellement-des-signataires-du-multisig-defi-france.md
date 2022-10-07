@@ -77,4 +77,4 @@ Enfin, cette proposal vise également à créer un deuxième multisig déployé 
 
 ### Rédacteur
 
-@Disiaque
+[@Disiaque](https://twitter.com/disiaque\_eth)
