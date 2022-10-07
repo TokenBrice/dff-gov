@@ -40,8 +40,8 @@ Parmi les gardiens actuels, cinq ne respectent pas ces critères. On les renouve
 | CookingCryptos  | Cesarioo |
 | L0GYKAL         | Disiaque |
 | Mratsim         | Ootsun   |
-| NolanVanmoortel | Morpheus |
-| Owerache        | Theo     |
+| NolanVanmoortel | Théo     |
+| Owerache        | Starny   |
 
 La nouvelle liste de signataires, classé par ordre alphabétique, devient donc :
 
