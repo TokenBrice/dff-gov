@@ -58,15 +58,16 @@ La nouvelle liste de signataires, classé par ordre alphabétique, devient donc 
 | 9.  | Theo                 |
 | 10. | TokenBrice           |
 
-Pour conclure sur ce sujet, on délimite les responsabilités des signataires en créant un rôle de "Gardien" dans le serveur. Les gardiens ont pour mission de créer et signer les transactions en vérifiant qu'elles soient en adéquation avec les décisions prises par l'Agora. Ils n'ont pas la possibilité de créer des transactions en autonomie et leur durée de mandat est de six mois, avant leur renouvellement.
+On délimite les responsabilités des signataires en créant un rôle de "Gardien" dans le serveur. Les gardiens ont pour mission de créer et signer les transactions en vérifiant qu'elles soient en adéquation avec les décisions prises par l'Agora. Ils n'ont pas la possibilité de créer des transactions en autonomie et leur durée de mandat est de six mois, avant leur renouvellement.
 
-Pour communiquer entre eux, les gardiens utilisent un ping directement dans le salon Agora. Dans le cas où un gardien ne serait plus disponible pour assurer sa mission, il s'engage à prévenir l'Agora pour un renouvellement avancé de son poste.
+Pour communiquer entre eux, les gardiens utilisent un ping directement dans le salon Agora. Dans le cas où un gardien ne serait plus disponible pour assurer sa mission, il s'engage à prévenir l'Agora pour un renouvellement avancé de son poste. Le prochain renouvellement des gardiens pourra se faire selon des modalités toutes autres : élections appuyées par Déméter, outil quantitatif sur l'efficience des gardiens, etc.
 
-Le prochain renouvellement des gardiens pourra se faire selon des modalités toutes autres : élections appuyées par Déméter, outil quantitatif sur l'efficience des gardiens, etc.
+Enfin, cette proposal vise également à créer un deuxième multisig déployé sur Polygon afin d'économiser des frais de gas.
 
 ### Implémentation
 
-* Renouvellement des signataires du multisig suivant la liste établie dans la proposal.
+* Renouvellement des signataires du multisig suivant la liste établie dans cette proposal.
+* Création d'un deuxième multisig sur le réseau Polygon.
 * Création du rôle "Gardien" dans le serveur et l'attribuer aux membres nommés.
 * Mise à jour de la documentation de DeFi France pour ce rôle.
 
