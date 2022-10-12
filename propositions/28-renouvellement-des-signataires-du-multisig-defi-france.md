@@ -33,7 +33,7 @@ Et le multisig comporte dix signataires :
 
 Les signataires qui ne respectent pas les critères suivants sont appelés à être renouvelés :
 
-* Faire parti du top 20 réputation de Démeter.
+* Faire partie du top 20 réputation de Démeter.
 * Avoir participé dans les derniers mois aux activités de DeFi France, notamment aux discussions du serveur.
 * Être intéressé pour intégrer le multisig pour une durée de six mois.
 
@@ -45,7 +45,7 @@ Parmi les gardiens actuels, cinq ne respectent pas ces critères. On les renouve
 | L0GYKAL         | Disiaque |
 | Mratsim         | Théo     |
 | NolanVanmoortel | Starny   |
-| Owerache        | ?        |
+| Owerache        | Madmat   |
 
 La nouvelle liste de signataires, classé par ordre alphabétique, devient donc :
 
@@ -57,8 +57,8 @@ La nouvelle liste de signataires, classé par ordre alphabétique, devient donc 
 | 4.  | Cyrille              |
 | 5.  | Disiaque             |
 | 6.  | Julienperma          |
-| 7.  | Morpheus             |
-| 8.  | Ootsun               |
+| 7.  | Madmat               |
+| 8.  | Starny               |
 | 9.  | Theo                 |
 | 10. | TokenBrice           |
 
