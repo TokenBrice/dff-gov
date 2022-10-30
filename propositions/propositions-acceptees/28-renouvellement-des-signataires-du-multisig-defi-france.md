@@ -1,8 +1,8 @@
 ---
-description: Proposal en cours de discussion
+description: Proposal approuvée
 ---
 
-# 💬 #28 - Renouvellement des signataires du multisig DeFi France
+# 📜 #28 - Renouvellement des signataires du multisig DeFi France
 
 ### Contexte
 
@@ -14,7 +14,7 @@ DeFi France ne possède pas à ce jour d'outil capable de procéder à des élec
 
 Au 07 octobre 2022, le classement de Demeter se présente de la manière suivante :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2022-10-07 093148.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2022-10-07 093148.png" alt=""><figcaption></figcaption></figure>
 
 Et le multisig comporte dix signataires :
 
