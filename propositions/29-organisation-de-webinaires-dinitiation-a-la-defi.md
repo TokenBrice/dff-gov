@@ -23,7 +23,7 @@ Cette proposition réponds à plusieurs objectifs :&#x20;
 
 Je propose d’organiser des meetups en ligne, accessibles à tous, pour initier les **novices complets** à la DeFi.&#x20;
 
-L’idée est de faire sur une base mensuelle, un webinaire **interactif** qui pourrait être promu sur Meetup pour tous les francophones et réalisé sur Google Meet. On expliquerai les **bases** de la DeFi, un petit tour d’horizon des **sujets du moment** et éventuellement un exercice pratique et une base de ressources pour aller plus loin avant de prendre les questions.&#x20;
+L’idée est de faire sur une base mensuelle, un webinaire **interactif** qui pourrait être promu sur Meetup pour tous les francophones et réalisé sur Google Meet, Discord ou Jitsee selon ce que le groupe de travail décidera. On expliquerai les **bases** de la DeFi, un petit tour d’horizon des **sujets du moment** et éventuellement un exercice pratique et une base de ressources pour aller plus loin avant de prendre les questions.&#x20;
 
 La plupart des webinaires sur Meetup sont en fait des rendez-vous de vente pour divers services. Notre force ici, c’est l’éthique de DeFi France. On est là pour **partager** et on n’a rien à vendre et c'est un véritable facteur différenciant.&#x20;
 
