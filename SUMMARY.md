@@ -29,6 +29,7 @@
 
 ## 📜 Propositions
 
+* [💬 #30 - Création d'un salon dédié à l'organisation de meet-up en Belgique](propositions/30-creation-dun-salon-dedie-a-lorganisation-de-meet-up-en-belgique.md)
 * [💬 #29 - Organisation de webinaires d'initiation à la DeFi](propositions/29-organisation-de-webinaires-dinitiation-a-la-defi.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
   * [📜 #28 - Renouvellement des signataires du multisig DeFi France](propositions/propositions-acceptees/28-renouvellement-des-signataires-du-multisig-defi-france.md)
