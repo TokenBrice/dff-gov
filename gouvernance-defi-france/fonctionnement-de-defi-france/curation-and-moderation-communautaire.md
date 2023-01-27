@@ -38,7 +38,7 @@ Voyons comment ces fonctions sont utilisées concrètement :&#x20;
 
 Tout comme la curation et la gouvernance se font communautairement, sur DeFi France les sanctions se décident également ensemble. Cela fonctionne comme pour les propositions : les membres peuvent réagir avec l'emoji :prison: sur une contribution dérangeante.
 
-![Gestion commune de la modération sur le discord DeFi France](<../../.gitbook/assets/image (3).png>)
+![Gestion commune de la modération sur le discord DeFi France](<../../.gitbook/assets/image (3) (1).png>)
 
 Si assez de gens réagissent, un vote débutera dans le `#⚖-tribunal` pour décider de la sanction. La récolte de blé de l'utilisateur peut être saisie sur une semaine et d'autres sanctions sont possibles. Jusqu'à présent aucune sanction n'a été prononcée.
 

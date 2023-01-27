@@ -29,9 +29,10 @@
 
 ## 📜 Propositions
 
-* [💬 #30 - Création d'un salon dédié à l'organisation de meet-up en Belgique](propositions/30-creation-dun-salon-dedie-a-lorganisation-de-meet-up-en-belgique.md)
-* [💬 #29 - Organisation de webinaires d'initiation à la DeFi](propositions/29-organisation-de-webinaires-dinitiation-a-la-defi.md)
+* [💬 #31 - Remboursement de frais pour organisation meet-up](propositions/31-remboursement-de-frais-pour-organisation-meet-up.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
+  * [📜 #30 - Création d'un salon dédié à l'organisation de meet-up en Belgique](propositions/propositions-acceptees/30-creation-dun-salon-dedie-a-lorganisation-de-meet-up-en-belgique.md)
+  * [📜 #29 - Organisation de webinaires d'initiation à la DeFi](propositions/propositions-acceptees/29-organisation-de-webinaires-dinitiation-a-la-defi.md)
   * [📜 #28 - Renouvellement des signataires du multisig DeFi France](propositions/propositions-acceptees/28-renouvellement-des-signataires-du-multisig-defi-france.md)
   * [📜 #27 - Fonctionnalité « Tweet with Demeter »](propositions/propositions-acceptees/27-fonctionnalite-tweet-with-demeter.md)
   * [📜 #26 - Gestion du Twitter DeFi France](propositions/26-gestion-du-twitter-defi-france.md)

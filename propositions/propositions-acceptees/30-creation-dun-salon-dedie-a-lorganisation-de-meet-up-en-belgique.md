@@ -1,8 +1,8 @@
 ---
-description: Proposal en cours de discussion
+description: Proposal approuvée
 ---
 
-# 💬 #30 - Création d'un salon dédié à l'organisation de meet-up en Belgique
+# 📜 #30 - Création d'un salon dédié à l'organisation de meet-up en Belgique
 
 ### Contexte
 

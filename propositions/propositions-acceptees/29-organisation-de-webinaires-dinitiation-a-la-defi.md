@@ -1,8 +1,8 @@
 ---
-description: Proposal en cours de discussion
+description: Proposal approuvée
 ---
 
-# 💬 #29 - Organisation de webinaires d'initiation à la DeFi
+# 📜 #29 - Organisation de webinaires d'initiation à la DeFi
 
 ### Contexte
 
