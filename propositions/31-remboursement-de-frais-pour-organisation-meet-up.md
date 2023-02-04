@@ -22,11 +22,13 @@ Suite à de très nombreuses relances sans réponses, Théo, Arthur et Disiaque 
 
 On propose dans cette proposal de procéder au remboursement de Théo en considérant qu'il s'agit d'une dépense devant être assumée par la communauté DeFi France. Outre la question financière, il s'agit d'un devoir de solidarité qui ne peut être ignoré.
 
-&#x20;Le remboursement se fera en ETH suivant le cours en vigueur.
+Le remboursement se fera en ETH suivant le cours en vigueur au moment de l'écriture de la proposal : 1 ETH = 1550 euros.
+
+Ce qui nous donne pour un montant de 479,19 euros : 0,3092 ETH.
 
 ### Implémentation
 
-* Les gardiens du multisig réaliseront un transfert de à l'adresse [genji-0.eth](https://etherscan.io/address/0x1f09ae37d2efa0593039544b1dd0eed73d97b66f)
+* Les gardiens du multisig réaliseront un transfert de 0,3092 ETH à l'adresse [genji-0.eth](https://etherscan.io/address/0x1f09ae37d2efa0593039544b1dd0eed73d97b66f)
 
 ### Rédacteur
 
