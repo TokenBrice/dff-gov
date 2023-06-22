@@ -2,7 +2,7 @@
 description: Proposition implémentée le 12 juillet 2022 ✅
 ---
 
-# 📜 #24 -Mise à jour Discord
+# 📜 #24 - Mise à jour Discord
 
 ## Proposition création canal "Evènement" et **suppression canal "Sidechain"**
 
@@ -28,4 +28,4 @@ Supprimer le canal textuel "Sidechains" dans le catégorie "Discussions"
 
 ### Rédacteur
 
-[arthursw.eth](https://app.gitbook.com/u/4V5TkoVBm1Ntv20z5ZnBQa9jHYK2 "mention")
+[arthursw.eth](http://localhost:5000/u/4V5TkoVBm1Ntv20z5ZnBQa9jHYK2 "mention")

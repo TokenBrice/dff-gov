@@ -21,12 +21,7 @@ Après une importante discussion, les droits administrateurs ont été accordés
 
 La désignation des nouveaux admins s'est réalisée sans difficultés à partir de cette liste :
 
-|                                                |                                               |                                            |
-| ---------------------------------------------- | --------------------------------------------- | ------------------------------------------ |
-| [Athurm](https://twitter.com/ArthurMicoulet)   | [ArthurSW](https://twitter.com/Arthurws14)    | [Charles53300](https://twitter.com/C53300) |
-| [Cyrille](https://twitter.com/cyrille\_briere) | [Disiaque](https://twitter.com/disiaque\_eth) | Madmat                                     |
-| [Nolan](https://twitter.com/NolanVanmoortel)   | [OoTsun](https://twitter.com/Oo\_Tsun)        | [Pascal](https://twitter.com/pscltllrd)    |
-| [Sorag](https://twitter.com/Sorag\_\_)         | [TokenBrice](https://twitter.com/TokenBrice)  |                                            |
+<table><thead><tr><th width="162.33333333333331"></th><th></th><th></th></tr></thead><tbody><tr><td><a href="https://twitter.com/ArthurMicoulet">Athurm</a></td><td><a href="https://twitter.com/Arthurws14">ArthurSW</a></td><td><a href="https://twitter.com/C53300">Charles53300</a></td></tr><tr><td><a href="https://twitter.com/cyrille_briere">Cyrille</a></td><td><a href="https://twitter.com/disiaque_eth">Disiaque</a></td><td>Madmat</td></tr><tr><td><a href="https://twitter.com/NolanVanmoortel">Nolan</a></td><td><a href="https://twitter.com/Oo_Tsun">OoTsun</a></td><td><a href="https://twitter.com/pscltllrd">Pascal</a></td></tr><tr><td><a href="https://twitter.com/Sorag__">Sorag</a></td><td><a href="https://twitter.com/TokenBrice">TokenBrice</a></td><td></td></tr></tbody></table>
 
 Ces droits sont bien entendu temporaires le temps que Demeter soit implémentée et mise à jour : l'objectif est toujours que le serveur soit auto-géré par l'ensemble de ses membres ! Une équipe a donc vu le jour pour corriger les bugs du bot, avec notamment la participation d'[OoTsun](https://twitter.com/Oo\_Tsun) qui est le premier à avoir réussi à faire fonctionner Demeter sur un serveur de test.
 

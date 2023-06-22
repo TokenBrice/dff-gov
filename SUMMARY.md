@@ -13,8 +13,8 @@
 
 ## 📰 Fil de la gouvernance
 
-* [#12 - Reprise des activités de DeFi France](fil-de-la-gouvernance/12-reprise-des-activites-de-defi-france.md)
 * [⏳ Publiés en 2021](fil-de-la-gouvernance/publies-en-2021/README.md)
+  * [#12 - Reprise des activités de DeFi France](fil-de-la-gouvernance/publies-en-2021/12-reprise-des-activites-de-defi-france.md)
   * [#11 - Une orientation générale pour DeFi France](fil-de-la-gouvernance/publies-en-2021/11-une-orientation-generale-pour-defi-france.md)
   * [#10 - Des aperçus du site web DeFi France](fil-de-la-gouvernance/publies-en-2021/10-des-apercus-du-site-web-defi-france.md)
   * [#9 - Un faucet communautaire pour DeFi France](fil-de-la-gouvernance/publies-en-2021/9-un-faucet-communautaire-pour-defi-france.md)
@@ -29,8 +29,10 @@
 
 ## 📜 Propositions
 
-* [💬 #31 - Remboursement de frais pour organisation meet-up](propositions/31-remboursement-de-frais-pour-organisation-meet-up.md)
+* [💬 #33 - Organisation de Surfin DeFi 2023](propositions/33-organisation-de-surfin-defi-2023.md)
 * [✅ Propositions acceptées](propositions-en-cours/page-2.md)
+  * [📜 #32 - Réactivation du chan Bordeaux](propositions/propositions-acceptees/32-reactivation-du-chan-bordeaux.md)
+  * [📜 #31 - Remboursement de frais pour organisation meet-up](propositions/propositions-acceptees/31-remboursement-de-frais-pour-organisation-meet-up.md)
   * [📜 #30 - Création d'un salon dédié à l'organisation de meet-up en Belgique](propositions/propositions-acceptees/30-creation-dun-salon-dedie-a-lorganisation-de-meet-up-en-belgique.md)
   * [📜 #29 - Organisation de webinaires d'initiation à la DeFi](propositions/propositions-acceptees/29-organisation-de-webinaires-dinitiation-a-la-defi.md)
   * [📜 #28 - Renouvellement des signataires du multisig DeFi France](propositions/propositions-acceptees/28-renouvellement-des-signataires-du-multisig-defi-france.md)

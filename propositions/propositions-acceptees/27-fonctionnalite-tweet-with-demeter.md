@@ -49,4 +49,4 @@ La fonctionnalité pourra être désactivée en effaçant le jeton d'accès (twi
 
 ### Rédacteur
 
-[OoTsun](https://app.gitbook.com/u/7X8PEdE3ERU9ob8UNY8rAUwz4073 "mention")
+[OoTsun](http://localhost:5000/u/7X8PEdE3ERU9ob8UNY8rAUwz4073 "mention")

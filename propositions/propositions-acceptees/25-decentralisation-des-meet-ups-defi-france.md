@@ -44,5 +44,5 @@ Un des premiers sujets à aborder sera de revoir l'accès aux moyens de communic
 
 ### Rédacteur
 
-[disiaque](https://app.gitbook.com/u/K4U6B6K5ILRfIL7ST7apaeUHD6z2 "mention")
+[disiaque](http://localhost:5000/u/K4U6B6K5ILRfIL7ST7apaeUHD6z2 "mention")
 

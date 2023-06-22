@@ -32,4 +32,4 @@ Si ce paramètre n'est pas configuré ou si sa valeur est égal à 0, alors la f
 
 ### Rédacteur
 
-[OoTsun](https://app.gitbook.com/u/7X8PEdE3ERU9ob8UNY8rAUwz4073 "mention")
+[OoTsun](http://localhost:5000/u/7X8PEdE3ERU9ob8UNY8rAUwz4073 "mention")

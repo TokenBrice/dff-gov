@@ -2,7 +2,7 @@
 description: Proposition implémentée le 21 mai 2022 ✅
 ---
 
-# 📜 24 - Gestion de l'airdrop Optimism
+# 📜 #23 - Gestion de l'airdrop Optimism
 
 ### Contexte
 
@@ -22,4 +22,4 @@ ArthurSW exécutera les actions de cette proposition dès le lancement du token.
 
 ### Rédacteur
 
-[disiaque](https://app.gitbook.com/u/K4U6B6K5ILRfIL7ST7apaeUHD6z2 "mention")
+[disiaque](http://localhost:5000/u/K4U6B6K5ILRfIL7ST7apaeUHD6z2 "mention")

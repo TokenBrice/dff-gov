@@ -33,4 +33,3 @@ Cette proposition sera épinglée dans le salon « Stratégie » pour permettre 
 
 [Cyrille](https://twitter.com/cyrille\_briere)
 
-****
